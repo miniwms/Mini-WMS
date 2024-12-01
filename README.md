@@ -8,6 +8,8 @@ Whether you're a high-volume seller on **Amazon**, **eBay** and **Shopify** plat
 
 This app will increase your productivity and stock accuracy, speeding up the **receiving**, **picking**, and **shipping** processes.
 
+<img src="asset/mini_wms_feature.png" alt="Feature" width="600">
+
 ---
 [Setup/Configure your mini warehouse](Receiving.md).  
 [Purchase order setup](Receiving.md).  
