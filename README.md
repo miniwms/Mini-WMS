@@ -9,17 +9,17 @@ Whether you're a high-volume seller on **Amazon**, **eBay** and **Shopify** plat
 This app will increase your productivity and stock accuracy, speeding up the **receiving**, **picking**, and **shipping** processes.
 
 ---
-[Setup/Configure your mini warehouse](RECEIVING.md).  
-[Purchase order setup](RECEIVING.md).  
-[Sales Order setup](RECEIVING.md).  
-  [Amazon sales order downloads](RECEIVING.md).  
-  [Ebay sales order downloads](RECEIVING.md).  
-  [Shopify sales order downloads](RECEIVING.md).  
-[Receiving Process](RECEIVING.md).  
-[Picking Process](RECEIVING.md).  
-[Stock count Process](RECEIVING.md).  
-[Shipping container](RECEIVING.md).  
-[Reports](RECEIVING.md).  
+[Setup/Configure your mini warehouse](Receiving.md).  
+[Purchase order setup](Receiving.md).  
+[Sales Order setup](Receiving.md).  
+  [Amazon sales order downloads](Receiving.md).  
+  [Ebay sales order downloads](Receiving.md).  
+  [Shopify sales order downloads](Receiving.md).  
+[Receiving Process](Receiving.md).  
+[Picking Process](Receiving.md).  
+[Stock count Process](Receiving.md).  
+[Shipping container](Receiving.md).  
+[Reports](Receiving.md).  
 
 
 ## **Key Features**
