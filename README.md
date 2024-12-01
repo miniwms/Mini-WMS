@@ -4,7 +4,7 @@
 
 This is a comprehensive app designed to streamline and optimize various aspects of mini warehouse operations.  
 
-Whether you're a high-volume seller on **eBay**, **Amazon**, **Etsy**, or you manage a business dealing with large stock quantities and reselling them through sales orders, this app is for you.  
+Whether you're a high-volume seller on **Amazon**, **eBay** and **Shopify** platforms, or you manage a business dealing with large stock quantities and reselling them through sales orders, this app is for you.  
 
 This app will increase your productivity and stock accuracy, speeding up the **receiving**, **picking**, and **shipping** processes.
 
