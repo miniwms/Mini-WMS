@@ -1,3 +1,5 @@
+[View Issues List](https://github.com/miniwms/Mini-WMS/issues)  |  [Add New Issue](https://github.com/miniwms/Mini-WMS/issues/new)  
+
 # Mini Warehouse Management System
 
 **A tool to streamline your mini warehouse.**
@@ -11,6 +13,8 @@ This app will increase your productivity and stock accuracy, speeding up the **r
 <img src="asset/mini_wms_feature.png" alt="Feature" width="600">
 
 ---
+[Submit a New Issue](https://github.com/miniwms/Mini-WMS/issues/new)
+
 [Setup/Configure your mini warehouse](Receiving.md).  
 [Purchase order setup](Receiving.md).  
 [Sales Order setup](Receiving.md).  
