@@ -21,7 +21,7 @@ This app will increase your productivity and stock accuracy, speeding up the **r
   [Ebay sales order downloads](Receiving.md).  
   [Shopify sales order downloads](Receiving.md).  
 [Receiving Process](Receiving.md).  
-[Picking Process](Receiving.md).  
+[Picking Process](Picking.md).  
 [Stock count Process](Receiving.md).  
 [Shipping container](Receiving.md).  
 [Reports](Receiving.md).  
