@@ -35,8 +35,10 @@
   <tr>
     <!-- Column 1 -->
     <td style="width: 33%; text-align: center; vertical-align: top;">
-      <strong>Step 1: Click on the setup icon</strong>
-      <img src="asset/mainScreen.png" alt="Step 1" width="200">
+      <strong>Step 1: Add item/SKU types</strong>
+      <p>Define the different item SKU types you have. The item type is a name given to a group of item. Example Computer, flat screens, hazardous, heavy ...etc </p>
+      <img src="asset/itemtype1.png" alt="Step 1" width="200">
+      <img src="asset/itemtype2.png" alt="Step 1" width="200">
     </td>
     <!-- Column 2 -->
     <td style="width: 33%; text-align: center; vertical-align: top;">
