@@ -3,7 +3,7 @@
 <p>The initial configuration involves the following steps:</p>
 
 <ul>
-  <li>Setup the Bin locations.</li>
+  <li><a href="locations.md">Setup the Bin locations</a></li>
   <li>Setup the location groups or location classes.</li>
   <li>Setup the Storage strategies.</li>
   <li>Setup the Pick strategies.</li>
