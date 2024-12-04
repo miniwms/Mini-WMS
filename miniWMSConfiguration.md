@@ -5,8 +5,8 @@
 <ul>
   <li><a href="locations.md">Configure  Bin locations</a></li>
   <li><a href="configureLocationClasses.md">Configure location groups or location classes</a>.</li>
-  <li><a href="storageStrategies.md">Configure Storage strategies</a>.</li>
-  <li><a href="pickStrategies.md">Configure Pick strategies</a>.</li>
+  <li><a href="storageStrategy.md">Configure Storage strategies</a>.</li>
+  <li><a href="pickStrategy.md">Configure Pick strategies</a>.</li>
   <li><a href="configureItems.md">Configure item type and Items SKU and pictures</a>.</li>
   <li><a href="addVendors.md">Setup the purchase order vendors.</a>.</li>
   <li><a href="configureSystemParameters.md">Setup the System parameters.</a></li>
