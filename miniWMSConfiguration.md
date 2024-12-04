@@ -3,11 +3,11 @@
 <p>The initial configuration involves the following steps:</p>
 
 <ul>
-  <li><a href="locations.md">Setup the Bin locations</a></li>
-  <li><a href="configureLocationClasses.md">Setup the location groups or location classes</a>.</li>
-  <li><a href="storageStrategies.md">Setup the Storage strategies</a>.</li>
-  <li><a href="pickStrategies.md">Setup the Pick strategies</a>.</li>
-  <li><a href="configureItems.md">Setup item type and Items SKU and pictures</a>.</li>
+  <li><a href="locations.md">Configure  Bin locations</a></li>
+  <li><a href="configureLocationClasses.md">Configure location groups or location classes</a>.</li>
+  <li><a href="storageStrategies.md">Configure Storage strategies</a>.</li>
+  <li><a href="pickStrategies.md">Configure Pick strategies</a>.</li>
+  <li><a href="configureItems.md">Configure item type and Items SKU and pictures</a>.</li>
   <li>Setup the purchase order vendors.</li>
   <li>Setup the System parameters.</li>
 </ul>
