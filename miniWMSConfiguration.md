@@ -5,7 +5,7 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <!-- Column 1 -->
-    <td style="width: 33%; text-align: center; vertical-align: top;">
+    <td style="width: 33%; text-align: left; vertical-align: top;">
       <ul>
         <li>Setup item type.</li>
         <li>Seup the Items SKU and pictures.</li>
