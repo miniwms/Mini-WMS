@@ -1,6 +1,6 @@
-<h1>Mini-WMS setup & Configuration</h1>
+<h1>Mini-WMS Configuration</h1>
 
-<p>The initial setup & configuration involves the following steps:</p>
+<p>The initial configuration involves the following steps:</p>
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-<p>Proper configuration/setup of the above steps will help streamline the receiving, orders allocation and picking processes in your mini-warehouse. Hence maintain a good stock integrity</p>
+<p>Proper configuration of the above steps will streamline receiving, order allocation, and picking processes in your mini-warehouse, helping you maintain a high fulfillment rate and strong stock integrity.</p>
 
 <h2>Configuration</h2>
 <table style="width: 100%; border-collapse: collapse;">
