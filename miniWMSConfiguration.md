@@ -8,8 +8,8 @@
   <li><a href="storageStrategies.md">Configure Storage strategies</a>.</li>
   <li><a href="pickStrategies.md">Configure Pick strategies</a>.</li>
   <li><a href="configureItems.md">Configure item type and Items SKU and pictures</a>.</li>
-  <li>Setup the purchase order vendors.</li>
-  <li>Setup the System parameters.</li>
+  <li><a href="addVendors.md">Setup the purchase order vendors.</a>.</li>
+  <li><a href="configureSystemParameters.md">Setup the System parameters.</li>
 </ul>
 <p>Proper configuration of the above steps will streamline receiving, order allocation, and picking processes in your mini-warehouse, helping you maintain a high fulfillment rate and strong stock integrity.</p>
 
