@@ -1,6 +1,7 @@
 <h1>Configure locations</h1>
 <p>The initial configuration involves the following steps:</p>
 
+<img src="asset/locations.png" alt="Step 1" width="400">
 <ul>
   <li>This screen displays the list of existing locations in alphabetical order.</li>
   <li>You can add new locations by using the + button. To do so, enter the starting and ending locations in the format: start location A101 and end location A210 and a location class. A1 and A2 represent the storage locations row, 01 and 10 represents the location positions along the rows.</li>
