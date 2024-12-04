@@ -18,11 +18,11 @@
       </ul>
     </td>
     <!-- Column 2 -->
-    <td style="width: 33%; text-align: center; vertical-align: top;">
+    <td style="width: 33%; text-align: right; vertical-align: top;">
       <img src="asset/mainScreen.png" alt="Step 1" width="200">
     </td>
     <!-- Column 3 -->
-    <td style="width: 33%; text-align: center; vertical-align: top;">
+    <td style="width: 33%; text-align: right; vertical-align: top;">
       <img src="asset/miniWMSSetup.png" alt="Step 2" width="200">
     </td>
   </tr>
