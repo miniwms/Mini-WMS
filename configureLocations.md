@@ -1,12 +1,23 @@
 <h1>Configure locations</h1>
 <p>The initial configuration involves the following steps:</p>
 
-<img src="asset/locations.png" alt="Step 1" width="400">
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <!-- Column 1 -->
+    <td style="width: 60%; text-align: right; vertical-align: top;">
+      <img src="asset/locations.png" alt="Step 1" width="600">
+    </td>
+    <!-- Column 2 -->
+    <td style="width: 40%; text-align: right; vertical-align: top;">
+      <img src="asset/locationsAdd.png" alt="Step 2" width="300">
+    </td>
+  </tr>
+</table>
 <ul>
-  <li>This screen displays the list of existing locations in alphabetical order.</li>
-  <li>You can add new locations by using the + button. To do so, enter the starting and ending locations in the format: start location A101 and end location A210 and a location class. A1 and A2 represent the storage locations row, 01 and 10 represents the location positions along the rows.</li>
-  <li>This will generate 20 physical locations belonging to a single location class. You can repeat the same process to generate other sets of locations with different location class.</li>
-  <li>If your storage setup has more than 10 rows, e.g. 25 rows and 15 columns, then you can do the following: Click the + button, starting location A001, ending location B915. This should generate in the mini-WMS app 300 locations. Then click the add button again with starting location C001 ending location C415, this should give you another 75 locations. So altogether 375 locations.</li>
+  <li>Click the Location button, the next screen will display the list of existing locations in alphabetical order.</li>
+  <li>You can add new locations by using the + button from the locations result screen. To do so, enter the starting and ending locations in this format: starting location A100 and end location C405. Enter a location class and length, width & height. A1 and C4 represent the storage locations row, 01 and 05 represents the columns, meaning, the location positions along the rows.</li>
+  <li>This will generate 102 physical locations belonging to a single location class which have same dimensions. You can repeat the same process to generate other sets of locations with different location class.</li>
+  <li>If your storage setup has more than 10 rows, e.g. 25 rows and 15 columns, then you can do the following: Click the + button, starting location A000, ending location B915. This should generate in the mini-WMS app 300 locations. Then click the add button again with starting location C001 ending location C415, this should give you another 75 locations. So altogether 375 locations.</li>
   <li>You can delete locations by using the bin button. Enter the start and end location to complete the delete.</li>
   <li>You can also import locations from an excel spreadsheet. Use "import locations" button.</li>
 </ul>
