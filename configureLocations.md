@@ -22,21 +22,21 @@
 </table>
 <ul>
   <li>Click the Location button, the next screen will display the list of existing locations in alphabetical order.</li>
-  <li>You can add new locations by using the + button from the locations result screen. To do so, enter the starting and ending locations in this format: starting location A100 and end location C405. Enter a location class and length, width & height. A1 and C4 represent the storage locations row, 01 and 05 represents the columns, meaning, the location positions along the rows.</li>
-  <li>This will generate 102 physical locations belonging to a single location class which have same dimensions. You can repeat the same process to generate other sets of locations with different location class.</li>
-  <li>If your storage setup has more than 10 rows, e.g. 25 rows and 15 columns, then you can do the following: Click the + button, starting location A000, ending location B915. This should generate in the mini-WMS app 300 locations. Then click the add button again with starting location C001 ending location C415, this should give you another 75 locations. So altogether 375 locations.</li>
-  <li>You can delete locations by using the bin button. Enter the start and end location to complete the delete.</li>
+  <li>You can add new locations by using the + button from the locations result screen. To do so, enter the starting and ending locations in this format: starting location A10000 and end location A30505. Enter a location class and length, width & height. A1 and A3 represent the Aisle number, the second two digits represents the rows and the last two represent the column.</li>
+  <li>This will generate 96 physical locations belonging to a single location class with identical dimensions. You can repeat the same process to generate other sets of locations with different location class.</li>
+  <li>This location labelling system will work either you have one racking or multiple rackings..</li>
+  <li>You can delete locations by using the bin button. Enter the start and end locations to complete the delete.</li>
   <li>You can also import locations from an excel spreadsheet. Use "import locations" button.</li>
 </ul>
 
 <p>The spreadsheet columns should contain the first row as column names then next rows the location details:</p>
 
 <p>location  loc_class  empty_flg  length  width  height</p>
-<p>A101      100        Y          50      30     40</p>
-<p>A102      100        Y          50      30     40</p>
-<p>A103      100        Y          50      30     40</p>
+<p>A10101      100        Y          50      30     40</p>
+<p>A10102      100        Y          50      30     40</p>
+<p>A10103      100        Y          50      30     40</p>
 <p>and so on...</p>
-<p>length, width and height are in centimeters.</p>
+<p>length, width and height are in user defined cm or inch</p>
 
 <h2 style="color: #009688;">Location Fields:</h2>
 <ul>
