@@ -46,16 +46,3 @@
   <li><strong>Width</strong>: Width of the location.</li>
   <li><strong>Height</strong>: The height of the location.</li>
 </ul>
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <!-- Column 1 -->
-    <td style="width: 33%; text-align: right; vertical-align: top;">
-      <img src="asset/mainScreen.png" alt="Step 1" width="200">
-    </td>
-    <!-- Column 2 -->
-    <td style="width: 33%; text-align: right; vertical-align: top;">
-      <img src="asset/miniWMSSetup.png" alt="Step 2" width="200">
-    </td>
-  </tr>
-</table>
