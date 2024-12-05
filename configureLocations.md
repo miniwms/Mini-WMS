@@ -5,7 +5,7 @@
 <ul>
   <li><b>A5</b> represents the <b>Aisle number</b>, indicating the specific section of the warehouse.</li>
   <li><b>05</b> represents the <b>Row number</b>, referring to the horizontal line of storage within the aisle.</li>
-  <li><b>10</b>b> represents the <b>Column number</b>, identifying the vertical position or specific bin within the row.</li>
+  <li><b>10</b> represents the <b>Column number</b>, identifying the vertical position or specific bin within the row.</li>
 </ul>
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
