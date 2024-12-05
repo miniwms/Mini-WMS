@@ -1,6 +1,12 @@
 <h1>Configure locations</h1>
-<p>The initial configuration involves the following steps:</p>
-
+<p>We have adopted the following location labelling system:</p>
+<p><b>A5   -   05  -  10</b></p>
+<p>Isle - Row - Column</p>
+<ul>
+  <li><b>A5</b> represents the <b>Aisle number</b>, indicating the specific section of the warehouse.</li>
+  <li><b>05</b> represents the <b>Row number</b>, referring to the horizontal line of storage within the aisle.</li>
+  <li><b>10</b>b> represents the <b>Column number</b>, identifying the vertical position or specific bin within the row.</li>
+</ul>
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <!-- Column 1 -->
