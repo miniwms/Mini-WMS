@@ -13,7 +13,7 @@
   <tr>
     <!-- Column 1 -->
     <td style="width: 60%; text-align: right; vertical-align: top;">
-      <img src="asset/locations.png" alt="Step 1" width="600">
+      <img src="asset/locationClass.png" alt="Step 1" width="600">
     </td>
     <!-- Column 2 -->
     <td style="width: 40%; text-align: right; vertical-align: top;">
