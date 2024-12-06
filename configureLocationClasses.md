@@ -21,12 +21,7 @@ Each location class can represent a group of bins or shelves that share common a
 
 The spreadsheet columns should contain the first row as column names, then the next rows the location details:
 
-```
-location  loc_class  empty_flg  length  width  height
-A10101    100        Y          50      30     40
-A10102    100        Y          50      30     40
-A10103    100        Y          50      30     40
-```
+
 and so on...
 
 Length, width, and height are in user-defined cm or inches.
