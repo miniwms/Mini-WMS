@@ -2,8 +2,7 @@
 
 We have adopted the following location labelling system:
 
-**AISLE - ROW - COLUMN**
-
+**AISLE - ROW - COLUMN**  
 **A5 - 05 - 10**
 
 - **A5** represents the **Aisle number**, indicating the specific section of the warehouse.
