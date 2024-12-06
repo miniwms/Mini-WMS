@@ -2,8 +2,8 @@
 
 The initial configuration involves the following steps:
 
-- [Configure Bin locations](configureLocations.md)
-- [Configure location groups or location classes](configureLocationClasses.md)
+- [Configure Bin locations](configureLocations.md)  
+- [Configure location groups or location classes](configureLocationClasses.md)  
 - [Configure Storage strategies](storageStrategy.md)
 - [Configure Pick strategies](pickStrategy.html)
 - [Configure item type and Items SKU and pictures](configureItems.md)
