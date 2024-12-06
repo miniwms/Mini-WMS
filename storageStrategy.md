@@ -10,5 +10,5 @@ This approach helps:
 - Minimize handling time.
 - Maximize space utilization.
 
-![Step 2](asset/miniWMSSetup.png)
+![Step 2](asset/storageStrategy.png)
 
