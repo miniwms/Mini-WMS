@@ -1,14 +1,15 @@
 <h1>Location classes or location groups</h1>
 
-<p>We have adopted the following location labelling system:</p>
-<p>AISLE - ROW - COLUMN</p>
-<p><b>A5   -   05  -  10</b></p>
+<p>Location classes are a way to categorize or group multiple storage locations within a warehouse based on shared characteristics.</p>
 
+<p>Each location class can represent a group of bins or shelves that share common attributes, such as:</p>
 <ul>
-  <li><b>A5</b> represents the <b>Aisle number</b>, indicating the specific section of the warehouse.</li>
-  <li><b>05</b> represents the <b>Row number</b>, referring to the horizontal line of storage within the aisle.</li>
-  <li><b>10</b> represents the <b>Column number</b>, identifying the vertical position or specific bin within the row.</li>
+  <li><strong>Storage Type</strong>: Grouping locations based on the type of items they store, like computers, computer accessories, heavy goods, small parts, or hazardous materials.</li>
+  <li><strong>Accessibility</strong>: Classifying locations by how easily they can be accessed, e.g., prime locations for fast-moving items.</li>
+  <li><strong>Temperature Control</strong>: Designating areas for climate-controlled goods (e.g., refrigerated locations).</li>
+  <li><strong>Load Capacity</strong>: Differentiating locations that can bear certain weight limits.</li>
 </ul>
+
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <!-- Column 1 -->
@@ -17,7 +18,7 @@
     </td>
     <!-- Column 2 -->
     <td style="width: 40%; text-align: right; vertical-align: top;">
-      <img src="asset/locationsAdd.png" alt="Step 2" width="300">
+      <img src="asset/locationClassAdd.png" alt="Step 2" width="300">
     </td>
   </tr>
 </table>
