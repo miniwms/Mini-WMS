@@ -4,7 +4,7 @@
 
 <ul>
   <li><a href="configureLocations.html">Configure  Bin locations</a></li>
-  <li><a href="configureLocationClasses.html">Configure location groups or location classes</a>.</li>
+  <li><a href="configureLocationClasses.md">Configure location groups or location classes</a>.</li>
   <li><a href="storageStrategy.md">Configure Storage strategies</a>.</li>
   <li><a href="pickStrategy.html">Configure Pick strategies</a>.</li>
   <li><a href="configureItems.md">Configure item type and Items SKU and pictures</a>.</li>
