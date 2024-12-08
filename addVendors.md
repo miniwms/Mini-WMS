@@ -1,3 +1,5 @@
+[← Back](miniWMSConfiguration.md)
+
 # Configure Vendors for purchase orders.
 
 In a Warehouse Management System (WMS), vendor details are essential for managing purchase orders effectively and ensuring stock traceability.
