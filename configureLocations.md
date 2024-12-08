@@ -1,3 +1,5 @@
+[← Back](miniWMSConfiguration.md)
+
 # Configure locations
 
 We have adopted the following location labelling system:
