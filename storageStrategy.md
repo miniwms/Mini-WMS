@@ -1,3 +1,5 @@
+[← Back](miniWMSConfiguration.md)
+
 # Storage Strategy Configuration
 
 Storage strategies are essential in the WMS receiving process, particularly when combined with well-defined location classes. 
