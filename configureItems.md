@@ -1,3 +1,5 @@
+[← Back](miniWMSConfiguration.md)
+
 # Configure item types and items/SKUs
 
 Item types and SKUs (Stock Keeping Units) are critical elements in a Warehouse Management System (WMS). Properly defining these ensures efficient warehouse operations and seamless inventory management.
