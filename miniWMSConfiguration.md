@@ -1,3 +1,5 @@
+[← Back](README.md)
+
 # Mini-WMS Configuration
 
 The initial configuration involves the following steps:
