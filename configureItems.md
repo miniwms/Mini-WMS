@@ -1,27 +1,19 @@
-<h1>Configure item types and items/SKUs</h1>
+# Configure item types and items/SKUs
 
-<p>The initial configuration involves the following steps:</p>
+Item types and SKUs (Stock Keeping Units) are critical elements in a Warehouse Management System (WMS). Properly defining these ensures efficient warehouse operations and seamless inventory management.
 
-<ul>
-  <li>Setup the Bin locations.</li>
-  <li>Setup the location groups or location classes.</li>
-  <li>Setup the Storage strategies.</li>
-  <li>Setup the Pick strategies.</li>
-  <li>Setup item type and Items SKU and pictures.</li>
-  <li>Setup the purchase order vendors.</li>
-  <li>Setup the System parameters.</li>
-</ul>
-<p>Proper configuration of the above steps will streamline receiving, order allocation, and picking processes in your mini-warehouse, helping you maintain a high fulfillment rate and strong stock integrity.</p>
+By setting up item types and SKUs effectively, your warehouse operations become more organized and efficient, resulting in reduced errors, faster processing times, and improved inventory control.
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <!-- Column 1 -->
-    <td style="width: 33%; text-align: right; vertical-align: top;">
-      <img src="asset/mainScreen.png" alt="Step 1" width="200">
-    </td>
-    <!-- Column 2 -->
-    <td style="width: 33%; text-align: right; vertical-align: top;">
-      <img src="asset/miniWMSSetup.png" alt="Step 2" width="200">
-    </td>
-  </tr>
-</table>
+SKUs are unique identifiers assigned to each individual item or product. SKUs are essential for:
+
+- Inventory Tracking.
+- Order Fulfillment.
+  
+Click on the item type button to setup item types.  
+Click on the Item button to setup the items/SKUs
+
+The item number can be your barcode number (you can scan it) or contains alphanumerical values.
+
+| List of items/SKUs | Item edit | Item edit picture input |
+| ------------ | ----------- | ----------- |
+| ![Step 1](asset/itemList.png) |  ![Step 2](asset/itemEdit.png) | ![Step 2](asset/itemEdit1.png)|
