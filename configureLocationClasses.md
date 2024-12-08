@@ -1,3 +1,5 @@
+[← Back](miniWMSConfiguration.md)
+
 # Location classes or location groups
 
 Location classes are a way to categorize or group multiple storage locations within a warehouse based on shared characteristics.
