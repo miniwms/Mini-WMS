@@ -1,3 +1,5 @@
+[← Back](miniWMSConfiguration.md)
+
 # Picking Strategy Configuration
 
 Picking strategies are vital in optimizing the WMS order fulfillment process, especially when combined with organized storage strategies and location classes.
