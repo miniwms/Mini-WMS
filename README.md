@@ -17,7 +17,7 @@ This app will increase your productivity and stock accuracy, speeding up the **r
 [Setup/Configure your mini warehouse](miniWMSConfiguration.md).  
 [Purchase order setup](Receiving.md).  
 [Receiving Process](Receiving.md).  
-[Sales Order setup](Receiving.md).  
+[Sales Order setup](salesOrder.md).  
 [Picking Process](Picking.md).  
 [Stock count Process](Receiving.md).  
 [Shipping container](Receiving.md).  
