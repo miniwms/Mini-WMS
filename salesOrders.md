@@ -1,4 +1,4 @@
-[← Back](miniWMSConfiguration.md)
+[← Back](README.md)
 
 # Sales orders.
 
