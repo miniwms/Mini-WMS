@@ -43,7 +43,7 @@ Each method provides flexibility to suit your operational needs and streamline s
       <img src="asset/salesOrderImport2.png" alt="Step 2">
     </td>
   </tr>
-    <tr>
+  <tr>
     <th>List of sales orders screen.</th>
     <th>Single sales order detail screen showing header and detail lines.</th>
     <th>Update screen for a sales order.</th>
@@ -59,8 +59,7 @@ Each method provides flexibility to suit your operational needs and streamline s
       <img src="asset/salesOrderUpdate.png" alt="Step 2">
     </td>
   </tr>
-    </tr>
-    <tr>
+  <tr>
     <th colspan="2">Sales order add screen.</th>
   </tr>
   <tr>
