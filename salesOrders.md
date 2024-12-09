@@ -4,21 +4,10 @@
 
 Sales orders in your Mini-WMS can be managed through multiple methods. They can be automatically pulled from your Shopify, Amazon, or eBay shops, imported from an Excel spreadsheet, or added manually via the sales order screen.
 
-Shopify Integration: Requires:
-  - Your Shopify store URL.
-  - You hopify API access token.  
+| Integration Details | Visual Guide |
+|----------------------|-------------|
+| **Shopify Integration**: Requires:  <br> - Your Shopify store URL.  <br> - Your Shopify API access token.  <br><br> **Amazon Integration**: Requires:  <br> - Your Amazon marketplace.  <br> - Amazon client ID.  <br> - Amazon client secret.  <br> - Amazon refresh token.  <br><br> **eBay Integration**: Requires:  <br> - Your eBay API OAuth token.  <br><br> **Excel Import**: Requires:  <br> - You to fill in two sheets — one for sales order headers and one for sales order details. | ![Visual Guide](asset/SODownloads.png) |
 
-Amazon Integration Requires:
-  - Your Amazon marketplace.
-  - Amazon client ID.
-  - Amazon client secret.
-  - Amazon refresh token.
-    
-eBay Integration Requires:
-  - Your eBay API OAuth token.
-    
-Excel Import Requires:
-  - You to fill in two sheets — one for sales order headers and one for sales order details.
     
 Each method provides flexibility to suit your operational needs and streamline sales order processing.
 
