@@ -21,6 +21,9 @@ The item number can be your barcode number (you can scan it) or contains alphanu
 | ![Step 1](asset/itemList.png) |  ![Step 2](asset/itemEdit.png) | ![Step 2](asset/itemEdit1.png)|
 
 
+The item/SKU can be imported via excel spreadsheet.  
+The format of the sheet is shown below.
+
 ```
 The spreadsheet columns should contain the first row as column names then next rows the items details, as shown below:
 
