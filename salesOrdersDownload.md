@@ -26,11 +26,14 @@ Sales orders in your Mini-WMS can be managed through multiple methods. They can 
     
 Each method provides flexibility to suit your operational needs and streamline sales order processing.
 
-'''
-    The spreadsheet columns should contain the first row as column names then next rows the items details, as shown below:
-    itemNumber       description  storageStrategy  pickStrategy  itemType  warningLevel  price  weight  length  width  height
-    1102863754776    Educated  20  1020  BookF  3  8.99  0.741  15  22  2.5
-    1102863754886    The Shining  70  1070  BookSF 3  9.5  1.041  16  23  3
-    1102863754996    The Grapes of Wrath  20  1020  BookF  3  7.99  0.654  12  18  2.8
-    and so on\.\.\.
-'''
+```
+The spreadsheet columns should contain the first row as column names then next rows the items details, as shown below:
+
+itemNumber       description          storageStrategy  pickStrategy  itemType  warningLevel  price    weight  length  width  height
+1102863754776    Educated              20              1020          BookF        3          8.99      0.741  15      22      2.5
+1102863754886    The Shining           70              1070          BookSF       3          9.5       1.041  16      23      3
+1102863754996    The Grapes of Wrath   20              1020          BookF        3          7.99      0.654  12      18      2.8
+
+and so on\.\.\.
+
+```
