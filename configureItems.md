@@ -19,3 +19,16 @@ The item number can be your barcode number (you can scan it) or contains alphanu
 | List of items/SKUs | Item edit | Item edit picture input |
 | ------------ | ----------- | ----------- |
 | ![Step 1](asset/itemList.png) |  ![Step 2](asset/itemEdit.png) | ![Step 2](asset/itemEdit1.png)|
+
+
+```
+The spreadsheet columns should contain the first row as column names then next rows the items details, as shown below:
+
+itemNumber       description          storageStrategy  pickStrategy  itemType  warningLevel  price    weight  length  width  height
+1102863754776    Educated              20              1020          BookF        3          8.99      0.741  15      22      2.5
+1102863754886    The Shining           70              1070          BookSF       3          9.5       1.041  16      23      3
+1102863754996    The Grapes of Wrath   20              1020          BookF        3          7.99      0.654  12      18      2.8
+
+and so on\.\.\.
+
+```
