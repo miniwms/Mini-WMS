@@ -30,16 +30,19 @@ To import sales orders via excel, click on the "Get Orders from excel" button an
 The spreadsheet should consist of two sheets: "salesorder" and "salesorderline". The import process will look for these sheet names with exact spelling.
 So it needs to be written as they are. Below are the excel sheets and their columns.
 
-```
-The spreadsheet columns should contain the first row as column names then next rows the items details, as shown below:
+The salesorder spreadsheet columns should contain the first row as the column names of the sales order header fields, then, in the next rows the header information, as shown below:
+In this case we have shown 2 orders. You can have as many as you like.
 
+```
 "salesorder"
 so_num    ship_to_name    ship_addr1    ship_Addr2     ship_addr3  ship_city  ship_state  ship_zippostcode  country  ship_phone     ship_email
 SAL0001   John Doe        123 Main St   Suite 200                  New York   NY          10001             USA      555-123-4567   john.doe@example.com
 SAL0002   Jane Smith      456 Elm St    Apt 5B                     Chicago    IL          60614             USA      555-987-6543   jane.smith@example.com
+```
 
-and so on\.\.\.
+The salesorderline spreadsheet columns should contain the first row as the column names of the sales order detail fields, then, in the next rows the details information, as shown below:
 
+```
 "salesorderline"
 so_num    line_num      itm_num          qty_ordered
 SAL0001	    1	        1628437592043	    6
@@ -50,5 +53,4 @@ SAL0001	    5	        8715246309132	    9
 SAL0002	    1	        1402863754296	    2
 SAL0002	    2	        7953140862754	    7
 SAL0002	    3	        2185479360316	    10
-
 ```
