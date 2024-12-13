@@ -2,7 +2,7 @@
 
 # Sales orders.
 
-Purchase orders in your Mini-WMS can be added either manually or import via excel spreadsheet methodsvia the sales order screen.
+Purchase orders in your Mini-WMS can be added either manually or import via excel spreadsheet methods via the sales order screen.
 
 **Excel Import**:  
 - You need to fill in two sheets:  
@@ -12,8 +12,8 @@ Purchase orders in your Mini-WMS can be added either manually or import via exce
 <table>
   <tr>
     <th>Click on the purchase Order button</th>
-    <th>This requires credentials to access Shopify.</th>
-    <th>Amazon and Ebay sites.</th>
+    <th>This screen displays a list of purchase orders.</th>
+    <th>Click '+' to add new purchase order.</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -27,9 +27,9 @@ Purchase orders in your Mini-WMS can be added either manually or import via exce
     </td>
   </tr>
   <tr>
-    <th>List of sales orders screen.</th>
-    <th>Single sales order detail screen showing header and detail lines.</th>
-    <th>Update screen for a sales order.</th>
+    <th>After you click Add, the App shows the PO header and details.</th>
+    <th>To add more PO lines, click the '+' sign .</th>
+    <th></th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -39,18 +39,6 @@ Purchase orders in your Mini-WMS can be added either manually or import via exce
       <img src="asset/purchaseOrderScreen4.png" alt="Step 2">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderUpdate.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <th colspan="2">Sales order add screen.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAdd1.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAdd2.png" alt="Step 2">
     </td>
   </tr>
 </table>
