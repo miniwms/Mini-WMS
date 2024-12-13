@@ -18,6 +18,7 @@ This app will increase your productivity and stock accuracy, speeding up the **r
 [Purchase order setup](Receiving.md).  
 [Receiving Process](Receiving.md).  
 [Sales Order setup](salesOrders.md).  
+[Sales Orders Import](salesOrdersDownload.md).  
 [Picking Process](Picking.md).  
 [Stock count Process](Receiving.md).  
 [Shipping container](Receiving.md).  
