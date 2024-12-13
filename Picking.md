@@ -1,3 +1,5 @@
+[← Back](README.md)
+
 <h1>Picking Process</h1>
 <p>The picking process involves the following steps:</p>
 <p>The sales orders upload can be done multiple ways:</p>
