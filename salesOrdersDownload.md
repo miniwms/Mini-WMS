@@ -37,6 +37,7 @@ The spreadsheet columns should contain the first row as column names then next r
 so_num    ship_to_name    ship_addr1    ship_Addr2     ship_addr3  ship_city  ship_state  ship_zippostcode  country  ship_phone     ship_email
 SAL0001   John Doe        123 Main St   Suite 200                  New York   NY          10001             USA      555-123-4567   john.doe@example.com
 SAL0002   Jane Smith      456 Elm St    Apt 5B                     Chicago    IL          60614             USA      555-987-6543   jane.smith@example.com
+
 and so on\.\.\.
 
 "salesorderline"
