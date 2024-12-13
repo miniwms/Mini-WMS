@@ -19,6 +19,7 @@ This app will increase your productivity and stock accuracy, speeding up the **r
 [Receiving Process](Receiving.md).  
 [Sales Order setup](salesOrders.md).  
 [Sales Orders Import](salesOrdersDownload.md).  
+[Shopy / Amazon / Ebay API access](ShopifyAmazonEbayApi.md).  
 [Picking Process](Picking.md).  
 [Stock count Process](Receiving.md).  
 [Shipping container](Receiving.md).  
