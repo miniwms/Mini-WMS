@@ -38,6 +38,8 @@
     </td>
     <!-- Column 2 -->
     <td style="width: 33%; text-align: center; vertical-align: top;">
+      <p><strong>Step 5: Click on the 'Put Stock' button.</strong></p>
+      <img src="asset/purchaseOrderButton.png" alt="Step 1" width="200">
     </td>
     <!-- Column 3 -->
     <td style="width: 33%; text-align: center; vertical-align: top;">
