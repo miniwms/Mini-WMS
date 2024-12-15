@@ -21,8 +21,8 @@ This screen ensures seamless tracking of picked containers, streamlines the ship
 
 <table>
   <tr>
-    <td style="width: 50%; text-align: left;">Searching stock by item.</td>
-    <td style="width: 50%; text-align: left;">Searching stock by location</td>
+    <td style="width: 50%; text-align: left;">Screen showing existing containers results.</td>
+    <td style="width: 50%; text-align: left;">Screen showing container details.</td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -33,8 +33,8 @@ This screen ensures seamless tracking of picked containers, streamlines the ship
     </td>
   </tr>
     <tr>
-    <td style="width: 50%; text-align: left;">Searching stock by item.</td>
-    <td style="width: 50%; text-align: left;">Searching stock by location</td>
+    <td style="width: 50%; text-align: left;">Validate the container weight.</td>
+    <td style="width: 50%; text-align: left;">After aquiring a tracking number for your container, add it in this screen and click the Ship button, the status will change to Shipped. You can click the "Re-Open" button to change the tracking number.</td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
