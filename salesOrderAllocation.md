@@ -73,7 +73,7 @@ The system checks real-time stock availability in the warehouse to determine if 
       <img src="asset/salesOrderAllocate4.png" alt="Step 2">
     </td>
   </tr>
-    <tr>
+  <tr>
     <td style="width: 50%; text-align: left;">You can allocate multiple orders at onces.</td>
     <td style="width: 50%; text-align: left;">Click Allocate button and select date range.</td>
   </tr>
@@ -83,6 +83,30 @@ The system checks real-time stock availability in the warehouse to determine if 
     </td>
     <td style="vertical-align: top;">
       <img src="asset/salesOrderAllocate7.png" alt="Step 2">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; text-align: left;">For every order a popup shows up showing purcentage fill,</td>
+    <td style="width: 50%; text-align: left;">and gives you the choice to allocate or abort.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate7.png" alt="Step 1">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate8.png" alt="Step 2">
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="width: 50%; text-align: left;">Click allocate or abort.</td>
+    <td style="width: 50%; text-align: left;"></td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate9.png" alt="Step 1">
+    </td>
+    <td style="vertical-align: top;">
     </td>
   </tr>
 </table>
