@@ -1,6 +1,6 @@
 [← Back](README.md)
 
-# Allocation and Picking Process  
+# Picking Process  
 
 Allocation generates picking work to streamline order fulfillment. Follow these steps to begin:
 
