@@ -26,10 +26,10 @@ This screen ensures seamless tracking of picked containers, streamlines the ship
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/shipContainer1.png" alt="Step 1">
+      <img src="asset/reports1.png" alt="Step 1">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/shipContainer2.png" alt="Step 2">
+      <img src="asset/reportStockIntegrity.png" alt="Step 2">
     </td>
   </tr>
     <tr>
