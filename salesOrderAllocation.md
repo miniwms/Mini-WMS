@@ -38,8 +38,8 @@ The system checks real-time stock availability in the warehouse to determine if 
 
 <table>
   <tr>
-    <th>List of vendors on the result screen.</th>
-    <th>Screen to update existing vendor.</th>
+    <td style="width: 50%; text-align: left;">View the sales order you want to allocate.</td>
+    <td style="width: 50%; text-align: left;">Check the quantity ordered.</td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -47,6 +47,18 @@ The system checks real-time stock availability in the warehouse to determine if 
     </td>
     <td style="vertical-align: top;">
       <img src="asset/salesOrderDetail2.png" alt="Step 2">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; text-align: left;">After you click on Allocate button, a popup shows the quantity purcentage allocated. You have the choice to abort or continue.</td>
+    <td style="width: 50%; text-align: left;">Screen to update existing vendor.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate1.png" alt="Step 1">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate2.png" alt="Step 2">
     </td>
   </tr>
 </table>
