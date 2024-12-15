@@ -22,7 +22,7 @@ This app will increase your productivity and stock accuracy, speeding up the **r
 [Shopy / Amazon / Ebay API access](ShopifyAmazonEbayApi.md).  
 [Sales Order Allocation](salesOrderAllocation.md)  
 [Picking Process](Picking.md).  
-[Stock count Process](Receiving.md).  
+[Stock count Process](stockCount.md).  
 [Shipping container](Receiving.md).  
 [Reports](Receiving.md).  
 
