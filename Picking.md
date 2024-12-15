@@ -23,20 +23,28 @@ Mini-WMS supports advanced picking options for enhanced traceability and accurac
 - You can pick the entire order into a single container, or distribute it across multiple containers as needed.
 - This flexibility ensures accurate and efficient order fulfillment, tailored to your warehouse operations.
 
-<h2>Picking Process</h2>
-<table style="width: 100%; border-collapse: collapse;">
+<table>
   <tr>
-    <!-- Column 1 -->
-    <td style="width: 50%; text-align: left; vertical-align: top;">
-      <strong>Step 1: PO ready for picking</strong>
-      <p>Verify your sales order is in the dropdown list.</p>
-      <img src="asset/salesOrderAllocate10.png" alt="Step 1" width="200">
+    <td style="width: 50%; text-align: left;">Step 1: PO ready for picking</td>
+    <td style="width: 50%; text-align: left;">Step 2: Picking from a location. If the item is lot control, you have to provide lot control.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate10.png" alt="Step 1">
     </td>
-    <!-- Column 2 -->
-    <td style="width: 50%; text-align: left; vertical-align: top;">
-      <strong>Step 2: Picking from a location</strong>
-      <p>The Mini-WMS app will automatically know which location the item will be picked from. The operator will go straight to the shown location on the picking screen. You can scan the item number and shipping container or enter them manually. Click on the Pick button, then take the stock from the location into the container.</p>
-      <img src="asset/salesOrderAllocate11.png" alt="Step 2" width="200">
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate11.png" alt="Step 2">
     </td>
   </tr>
-</table>
+  <tr>
+    <td style="width: 50%; text-align: left;">You can pick some and some later. Or short pick some quantities or zero pick all.</td>
+    <td style="width: 50%; text-align: left;">If the item is serial number control, then you have to enter a serial number for every each.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate12.png" alt="Step 1">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate13.png" alt="Step 2">
+    </td>
+  </tr>
