@@ -24,7 +24,7 @@ This app will increase your productivity and stock accuracy, speeding up the **r
 [Picking Process](Picking.md).  
 [Stock count Process](stockCount.md).  
 [Shipping container](shippingContainer.md).  
-[Reports](Receiving.md).  
+[Reports](reports.md).  
 
 
 ## **Key Features**
