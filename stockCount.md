@@ -1,7 +1,5 @@
 [← Back](README.md)
 
-# Stock count  
-
 # Stock Count Screen  
 To perform a stock count, follow these steps:  
 
