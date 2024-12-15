@@ -110,29 +110,3 @@ The system checks real-time stock availability in the warehouse to determine if 
     </td>
   </tr>
 </table>
-
-**Mini-WMS supports Partial or Full Allocation:**
-- Full Allocation: All items and quantities in the sales order are allocated.
-- Partial Allocation: Only part of the order is allocated if there is insufficient stock.
-
-**Allocation vs. Picking:**
-- Allocation is the planning phase, where inventory is assigned to orders.
-- Picking is the execution phase, where the assigned inventory is physically picked from the warehouse to fulfill the allocated orders.
-
-
-## Picking Process
-
-### Step 1: PO ready for picking
-Verify your sales order is in the dropdown list.  
-![Step 1](asset/Picking1.png)
-
-### Step 2: Picking from a location
-The Mini-WMS app will automatically know which location the item will be picked from. The operator will go straight to the shown location on the picking screen.  
-You can scan the item number and shipping container or enter them manually. Click on the **Pick** button, then take the stock from the location into the container.  
-![Step 2](asset/Picking2.png)
-
-### Step 3: Short pick
-You can pick less than the required quantity. The app will ask you to confirm:  
-1. Do you want to pick the remaining quantity later?  
-2. Or do you want to short pick the remaining quantity?  
-![Step 3](asset/Picking3.png)
