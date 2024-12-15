@@ -50,8 +50,8 @@ The system checks real-time stock availability in the warehouse to determine if 
     </td>
   </tr>
   <tr>
-    <td style="width: 50%; text-align: left;">After you click on Allocate button, a popup shows the quantity purcentage allocated. You have the choice to abort or continue.</td>
-    <td style="width: 50%; text-align: left;">Screen to update existing vendor.</td>
+    <td style="width: 50%; text-align: left;">With Sales order SAL0001, after you click on Allocate button, a popup shows the quantity purcentage allocated. In this case, not all stock can fully be allocated. You have the choice to abort or continue.</td>
+    <td style="width: 50%; text-align: left;">The status changed to 'Allocated'.</td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -59,6 +59,30 @@ The system checks real-time stock availability in the warehouse to determine if 
     </td>
     <td style="vertical-align: top;">
       <img src="asset/salesOrderAllocate2.png" alt="Step 2">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; text-align: left;">In other cases, example sales order SAL0007, all lines are allocated.</td>
+    <td style="width: 50%; text-align: left;">Status is set to Allocate.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate3.png" alt="Step 1">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate4.png" alt="Step 2">
+    </td>
+  </tr>
+    <tr>
+    <td style="width: 50%; text-align: left;">You can allocate multiple orders at onces.</td>
+    <td style="width: 50%; text-align: left;">Click Allocate button and select date range.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderResults.png" alt="Step 1">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAllocate7.png" alt="Step 2">
     </td>
   </tr>
 </table>
