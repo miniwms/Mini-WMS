@@ -2,16 +2,18 @@
 
 # Reporting Screen  
 
-The Shipping Container Screen provides an overview of containers used during the picking process. Here's how it works:
+All reports are display only where no action is required.  
+Except the Stock integrity report, where action needs to be taken to rectify all reported issues.  
 
-### Stock integrity report:
-- There should be no items reported here. All items reported should be resolved immediately.
-- The warehouse processes like receiving, putaway or picking will not work if these issues are not resolved.
-- Proper configuration of your mini warehouse is essential for the smooth operation of these processes.
-- Low Stock Report is ok, you can replenish whenever you receive new stock.
+### Stock integrity report:  
+- There should be no items reported here. All items reported should be resolved immediately.  
+- The warehouse processes like receiving, putaway, allocation or picking will not work if these issues are not resolved.  
+- Proper configuration of your mini warehouse is essential for the smooth operation of these processes.  
+- Low Stock Report is ok, you can replenish whenever you receive new stock.  
 
-The rest of the reports are self explanatory.
+The rest of the reports are self explanatory.  
 
+  
 <table>
   <tr>
     <td style="width: 50%; text-align: left;">Available reports and charts.</td>
