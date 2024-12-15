@@ -21,6 +21,21 @@ Mini-WMS allocation follows predefined rules or strategies, such as:
 
 The system checks real-time stock availability in the warehouse to determine if items can be allocated for each sales order.
 
+<table>
+  <tr>
+    <th>List of vendors on the result screen.</th>
+    <th>Screen to update existing vendor.</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/vendorResult.png" alt="Step 1">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="asset/vendorUpdate.png" alt="Step 2">
+    </td>
+  </tr>
+</table>
+
 **Mini-WMS supports Partial or Full Allocation:**
 - Full Allocation: All items and quantities in the sales order are allocated.
 - Partial Allocation: Only part of the order is allocated if there is insufficient stock.
