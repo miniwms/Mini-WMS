@@ -17,8 +17,8 @@ This approach helps:
 
 <table>
   <tr>
-    <td style="width: 50%; text-align: left;">Step 1: PO ready for picking</td>
-    <td style="width: 50%; text-align: left;">Step 2: Picking from a location. If the item is lot control, you have to provide lot control.</td>
+    <td style="width: 50%; text-align: left;">This is the storage strategy result screen.</td>
+    <td style="width: 50%; text-align: left;">Click the + button and you should be able to add new storage strategy. Add description, fifo and expiry tolerance values Then the location class details.</td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -29,8 +29,8 @@ This approach helps:
     </td>
   </tr>
   <tr>
-    <td style="width: 50%; text-align: left;">You can pick some and some later. Or short pick some quantities or zero pick all.</td>
-    <td style="width: 50%; text-align: left;">If the item is serial number control, then you have to enter a serial number for every each.</td>
+    <td style="width: 50%; text-align: left;">From the result screen, you can click on a record in the list which will take you to the storage strategy detail screen.</td>
+    <td style="width: 50%; text-align: left;">Click on the pen button to edit the storage strategy header information.</td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -41,15 +41,15 @@ This approach helps:
     </td>
   </tr>
     <tr>
-    <td style="width: 50%; text-align: left;">You can pick some and some later. Or short pick some quantities or zero pick all.</td>
-    <td style="width: 50%; text-align: left;">If the item is serial number control, then you have to enter a serial number for every each.</td>
+    <td style="width: 50%; text-align: left;">From the storage strategy detail screen, you can click on the + button, you should be able to add a new location class detail.</td>
+    <td style="width: 50%; text-align: left;">From the storage strategy detail screen, you can click on an exising location class record to edit it. Alos, you can click the red delete button to remove the location class.</td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
       <img src="asset/storageStrategy6.png" alt="Step 1">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/storageStrategy6.png" alt="Step 2">
+      <img src="asset/storageStrategy2.png" alt="Step 2">
     </td>
   </tr>
 </table>
