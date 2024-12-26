@@ -42,7 +42,7 @@ This approach helps:
   </tr>
     <tr>
     <td style="width: 50%; text-align: left;">From the storage strategy detail screen, you can click on the + button, you should be able to add a new location class detail.</td>
-    <td style="width: 50%; text-align: left;">From the storage strategy detail screen, you can click on an exising location class record to edit it. Alos, you can click the red delete button to remove the location class.</td>
+    <td style="width: 50%; text-align: left;">From the storage strategy detail screen, you can click on an exising location class record to edit it. Also, you can click the red delete button to remove the location class.</td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
