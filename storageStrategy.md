@@ -46,7 +46,7 @@ This approach helps:
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/storageStrategy2.png" alt="Step 1">
+      <img src="asset/storageStrategy6.png" alt="Step 1">
     </td>
     <td style="vertical-align: top;">
       <img src="asset/storageStrategy6.png" alt="Step 2">
