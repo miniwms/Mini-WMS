@@ -25,7 +25,7 @@ This approach helps:
       <img src="asset/storageStrategy1.png" alt="Step 1">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate11.png" alt="Step 2">
+      <img src="asset/storageStrategy5.png" alt="Step 2">
     </td>
   </tr>
   <tr>
@@ -34,10 +34,22 @@ This approach helps:
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate12.png" alt="Step 1">
+      <img src="asset/storageStrategy4.png" alt="Step 1">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate13.png" alt="Step 2">
+      <img src="asset/storageStrategy3.png" alt="Step 2">
     </td>
   </tr>
-
+    <tr>
+    <td style="width: 50%; text-align: left;">You can pick some and some later. Or short pick some quantities or zero pick all.</td>
+    <td style="width: 50%; text-align: left;">If the item is serial number control, then you have to enter a serial number for every each.</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/storageStrategy2.png" alt="Step 1">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="asset/storageStrategy6.png" alt="Step 2">
+    </td>
+  </tr>
+</table>
