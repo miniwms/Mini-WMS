@@ -26,7 +26,7 @@ Mini-WMS supports advanced picking options for enhanced traceability and accurac
 <table>
   <tr>
     <td style="width: 50%; text-align: left;">Step 1: PO ready for picking</td>
-    <td style="width: 50%; text-align: left;">Step 2: Picking from a location. If the item is lot control, you have to provide lot control.</td>
+    <td style="width: 50%; text-align: left;">Step 2: Picking from a location. If the item is lot control, you have to provide a lot number.</td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -37,7 +37,7 @@ Mini-WMS supports advanced picking options for enhanced traceability and accurac
     </td>
   </tr>
   <tr>
-    <td style="width: 50%; text-align: left;">You can pick some and some later. Or short pick some quantities or zero pick all.</td>
+    <td style="width: 50%; text-align: left;">You can pick the whole quantity at once, Or part of the whole quantity and leave the rest for later. Or you can short pick whole quantity or some. If it is lot control and you want to short pick, you have to enter zero in the quantity field.</td>
     <td style="width: 50%; text-align: left;">If the item is serial number control, then you have to enter a serial number for every each.</td>
   </tr>
   <tr>
