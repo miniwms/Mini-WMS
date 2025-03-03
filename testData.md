@@ -11,7 +11,7 @@ Find below different test data.  Select one of them and import into the App to s
 ### Electronic and gadget stock mini-warehouse:  
 .  Stock where serial number and lot number is used
 
-[Download Test Data](assets/Technology-Stock-Data.xlsx)  
+[Download Test Data](asset/Technology-Stock-Data.xlsx)  
 
 
 ### Food and perishable stock mini-warehouse:  
