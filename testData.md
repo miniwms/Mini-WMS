@@ -17,7 +17,7 @@ Find below different test data.  Select one of them and import into the App to s
 ### Pharmaceutical stock mini-warehouse:  
 .  Stock where Lot number and expiry/fifo dates are used
 
-[Download Test Data - Technology-Stock ](asset/Pharmaceutical-Stock-Data.xlsx)  
+[Download Test Data - Pharmaceutical-Stock ](asset/Pharmaceutical-Stock-Data.xlsx)  
 
 
 ### Food and perishable stock mini-warehouse:  
