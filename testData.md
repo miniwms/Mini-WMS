@@ -9,13 +9,13 @@ Find below different test data.  Select one of them and import into the App to s
 
 [Download Full Test Data - Book-Stock ](asset/Books-Stock-Data.xls)  
 
-Example of items file only
+Example of items file only  
 [Download Test Data - Items ](asset/items.xls)  
-Example of locations file only
+Example of locations file only  
 [Download Test Data - Locations ](asset/locations.xls)  
-Example of purchase orders file only
+Example of purchase orders file only  
 [Download Test Data - Purchase Orders ](asset/purchaseorders.xls)  
-Example of sales orders file only
+Example of sales orders file only  
 [Download Test Data - Sales Orders ](asset/salesorders.xls)  
 
 ### Electronic and gadget stock mini-warehouse:  
