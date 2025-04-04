@@ -19,6 +19,9 @@ Each location class can represent a group of bins or shelves that share common a
 - Specify if the new location class is dedicated or not. This will make sure that any location in this location class will be dedicated, even when stock goes to zero the itemloc will be deleted from the system. Otherwise, if this dedicate flag if off, then if stock goes to zero then the itemloc get deleted from the system, the location is made available again by setting it's empty flag to 'Y'.
 - You can delete location class by using the bin button on the result screen.
 - If the location class is used by locations, then you cannot delete it. You need to disassociate locations from this location class prior to delet.
+- **Dedicate/Un-dedicate**:  
+    If you would like to dedicate all locations for a location class, tick that box and click update.  
+    If you would like to un-dedicate all locations for a location class, un-tick that box and click update.  
   
 
 ## Location Class Fields:
