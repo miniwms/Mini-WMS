@@ -26,6 +26,10 @@ Mini-WMS allocation follows predefined rules or strategies, such as:
 **Stock Availability Check:**  
 - The system checks real-time stock availability in the warehouse to determine if items can be allocated for each sales order.
 
+**Single order or group of orders Allocation:**
+- Navigate to a single sales order and click the 'Allocate' button.
+- Navigate to the sales order result screen and click the 'Allocate' button. Specify the date range. This will allocate all orders within that range.
+  
 **Partial or Full Allocation:** 
 - Full Allocation: All items and quantities in the sales order are allocated.
 - Partial Allocation: Only part of the order is allocated if there is insufficient stock.
