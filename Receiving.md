@@ -1,6 +1,6 @@
 [← Back](README.md)
 
-<h1>Receiving Process</h1>
+<h1>Receive and Putaway Process</h1>
 <p>The receiving process involves the following steps:</p>
 <ul>
   <li>Navigate to a single purchase order screen view screen. By clicking the Receive button you will initiate the receiving process.</li>
