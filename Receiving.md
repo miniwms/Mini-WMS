@@ -5,6 +5,8 @@
 <ul>
   <li>Navigate to a single purchase order screen view screen. By clicking the Receive button you will initiate the receiving process.</li>
   <li>This process will generate put away work for all the items on this purchase order.</li>
+  <li>This process can putaway with lot numbers if the item is set for lot control.</li>
+  <li>It also allows you to putaway to an override location other than the schedule location.</li>
 </ul>
 
 <p>Navigate to the "Put Away Stock" screen by clicking the "Put Stock" button from the home screen.</p>
