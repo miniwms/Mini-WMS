@@ -2,7 +2,7 @@
 
 # Configure System Parameters.
 
-In a Warehouse Management System (WMS), vendor details are essential for managing purchase orders effectively and ensuring stock traceability.
+In a Warehouse Management System (WMS), some system wide parameters are essentials.
 
 Click on the System Parameters button to setup the following: 
 - Your company name in short which will display beside the home screen title. Not mandatory.
