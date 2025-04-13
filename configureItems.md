@@ -32,6 +32,6 @@ itemNumber       description          storageStrategy  pickStrategy  itemType  w
 1102863754886    The Shining           70              1070          BookSF       3          9.5       1.041  16      23      3
 1102863754996    The Grapes of Wrath   20              1020          BookF        3          7.99      0.654  12      18      2.8
 
-and so on\.\.\.
+and so on...
 
 ```
