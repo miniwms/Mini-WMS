@@ -16,7 +16,7 @@ Each location class can represent a group of bins or shelves that share common a
 
 - Click the Location class button, the next screen will display the list of existing location classes in order of location class numbers.
 - You can add new location class by using the + button from the location class result screen.
-- Specify if the new location class is dedicated or not. This will make sure that any location in this location class will be dedicated, even when stock goes to zero the itemloc will be deleted from the system. Otherwise, if this dedicate flag if off, then if stock goes to zero then the itemloc get deleted from the system, the location is made available again by setting it's empty flag to 'Y'.
+- Specify if the new location class is dedicated or not. This will make sure that any location in this location class will be dedicated. If itemloc is dedicated and the stock goes to zero the itemloc will be NOT be deleted from the system. Otherwise, if this dedicate flag if off, then if stock goes to zero then the itemloc does get deleted from the system and the location is made available again by setting it's empty flag to 'Y'.
 - You can delete location class by using the bin button on the result screen.
 - If the location class is used by locations, then you cannot delete it. You need to disassociate locations from this location class prior to delet.
 - **Dedicate/Un-dedicate**:  
