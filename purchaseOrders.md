@@ -2,7 +2,7 @@
 
 # Purchase orders.
 
-Purchase orders in your Mini-WMS can be added either manually or import via excel spreadsheet methods via the sales order screen.
+Purchase orders in your Mini-WMS can be added either manually or via the import of excel spreadsheet methods via the purchase order screen.
 
 <table>
   <tr>
@@ -38,40 +38,33 @@ Purchase orders in your Mini-WMS can be added either manually or import via exce
   </tr>
 </table>
 
-**Excel Import**:  
+**The format of the Excel file to Import**:  
 - You need to fill in two sheets:  
   - One for purchase order headers.  
   - One for purchase order details.
     
 To import purchase orders via excel, click on the "Import Purchase Orders" button and upload your Excel spreadsheet.
-The spreadsheet should consist of two sheets: "purchaseorder" and "purchaseorderline". The import process will look for these sheet names with the exact spelling.
+The spreadsheet should consist of two sheets: "purchaseorder" and "purchaseorderline". The import process will look for these sheet names with the exact spelling, it is case sensitive.
 So, it needs to be written as they are. Below are the excel sheets and their columns.
 
 The purchaseorder spreadsheet columns should contain the first row as the column names of the purchase order header fields, then, in the next rows the header information, as shown below:
-In this case we have shown 2 orders. You can have as many as you like.
+In the case below we have shown 2 orders. You can have as many as you like.
 
 ```
 "purchaseorder"
-po_num      vendor_name
-PO1111      Kinokuniya
-PO1112      Waterstones
+po_number  vendor_number
+POrder001  Amazon
+POrder002  Waterstones
 ```
 
-The purchaseorderline spreadsheet columns should contain the first row as the column names of the purchase order detail fields, then, in the next rows the details information, as shown below:
-You can see below, some items are lot controlled and some are not. Also, those item requiring expiry date, it has been set, otherwise the expiry date should be set to 2100-01-01 i.e. never expires.
+The purchaseorderline spreadsheet columns should contain the first row as the column names of the purchase order detail fields, then, in the next rows the details information, as shown below:  
+You can see below, some items are lot controlled and some are not. Also, those item requiring expiry date, it has been set, otherwise the expiry date should be set to 2100-01-01 i.e. never expires. Same for fifo date.
 ```
 "purchaseorderline"
-po_num      line_num        itm_num            qty_ordered        expiry_date      lot_number
-PO1111      1                1628437592043        6                2025-05-01        LOT123
-PO1111      2                7026814395746        9                2025-05-01        LOT123
-PO1111      3                9421863057291        4                2100-01-01
-PO1111      4                5139678402157        9                2100-01-01
-PO1111      5                8715246309132        9                2025-05-01        LOT123
-PO1111      6                4236508179158        5                2100-01-01
-PO1111      7                6583921074951        2                2025-05-01        LOT123
-PO1111      8                1709285634216        5                2100-01-01
-PO1112      1                9213854760968        2                2100-01-01
-PO1112      2                3826547190315        10               2025-05-01        LOT123
-PO1112      3                1402863754296        2                2025-05-01        LOT123
-```
-
+po_number   line_number   item_number     lot_num   fifo_date   expiry_date   qty_ordered  
+POrder001   1             1628437592043   LOT1020   2000-01-01  2024-09-01    6  
+POrder001   2             7026814395746             2000-01-01  2024-09-05    9  
+POrder001   3             9421863057291   LOT1099   2000-01-01  2024-09-20    10  
+POrder002   1             5139678402157             2000-01-01  2024-09-01    5  
+POrder002   2             8715246309132   LOT1000   2000-01-01  2024-09-01    2  
+...
