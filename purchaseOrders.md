@@ -2,7 +2,7 @@
 
 # Purchase orders.
 
-Purchase orders in your Mini-WMS can be added either manually or via the import of excel spreadsheet methods via the purchase order screen.
+Purchase orders in your Mini-WMS can be added either manually or via the import of excel spreadsheet methods in the purchase order screen.
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ Purchase orders in your Mini-WMS can be added either manually or via the import 
   </tr>
 </table>
 
-**The format of the Excel file to Import**:  
+**Import process: The format of the Excel file to Import**:  
 - You need to fill in two sheets:  
   - One for purchase order headers.  
   - One for purchase order details.
@@ -58,7 +58,7 @@ POrder002  Waterstones
 ```
 
 The purchaseorderline spreadsheet columns should contain the first row as the column names of the purchase order detail fields, then, in the next rows the details information, as shown below:  
-You can see below, some items are lot controlled and some are not. Also, those item requiring expiry date, it has been set, otherwise the expiry date should be set to 2100-01-01 i.e. never expires. Same for fifo date.
+You can see below, some items are lot controlled and some are not. Also, those item requiring expiry date, it has been set, otherwise the expiry date should be set to 2100-01-01 i.e. never expires. For the fifo date default is 2000-01-01.
 ```
 "purchaseorderline"
 po_number   line_number   item_number     lot_num   fifo_date   expiry_date   qty_ordered  
