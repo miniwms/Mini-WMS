@@ -3,13 +3,15 @@
 <h1>Receive and Putaway Process</h1>
 <p>The receiving process involves the following steps:</p>
 <ul>
-  <li>Navigate to a single purchase order screen view screen. By clicking the Receive button you will initiate the receiving process.</li>
+  <li>From home screen, click on the Purchase order button.</li>
+  <li>Navigate to a single purchase order screen view screen.</li>
+  <li>By clicking the Receive button you will initiate the receiving process.</li>
   <li>This process will generate put away work for all the items on this purchase order.</li>
   <li>This process can putaway with lot numbers if the item is set for lot control.</li>
-  <li>It also allows you to putaway to an override location other than the schedule location.</li>
+  <li>It also allows you to override the putaway to a different location other than the scheduled location.</li>
 </ul>
 
-<p>Navigate to the "Put Away Stock" screen by clicking the "Put Stock" button from the home screen.</p>
+<p>To action the putaway work, you need to navigate to the "Put Away Stock" screen by clicking the "Put Stock" button from the home screen.</p>
 
 <h2>Receiving Process</h2>
 <table style="width: 100%; border-collapse: collapse;">
@@ -21,7 +23,7 @@
     </td>
     <!-- Column 2 -->
     <td style="width: 33%; text-align: center; vertical-align: top;">
-      <p><strong>Step 2: Check the quantity too.</strong></p>
+      <p><strong>Step 2: Check the quantities too.</strong></p>
       <img src="asset/purchaseOrderScreen6.png" alt="Step 2" width="200">
     </td>
     <!-- Column 3 -->
@@ -45,26 +47,29 @@
     </td>
     <!-- Column 3 -->
     <td style="width: 33%; text-align: center; vertical-align: top;">
+            <strong>Step 5: PO ready to put away</strong>
+      <p>Verify your purchase order is in the dropdown list.</p>
+      <img src="asset/Receiving1.png" alt="Step 1" width="200">
     </td>
   </tr>
   <tr>
     <!-- Column 1 -->
     <td style="width: 33%; text-align: center; vertical-align: top;">
-      <strong>Step 5: PO ready to put away</strong>
-      <p>Verify your purchase order is in the dropdown list.</p>
-      <img src="asset/Receiving1.png" alt="Step 1" width="200">
-    </td>
-    <!-- Column 2 -->
-    <td style="width: 33%; text-align: center; vertical-align: top;">
       <strong>Step 6: Put away to system location</strong>
-      <p>The Mini-WMS app directs you to the system-generated location. Place the stock and click "Put Away".</p>
+      <p>The Mini-WMS app directs you to the system-generated location. Put the stock in the shown location and click the "Put Away" button.</p>
       <img src="asset/Receiving2.png" alt="Step 2" width="200">
     </td>
-    <!-- Column 3 -->
+    <!-- Column 2 -->
     <td style="width: 33%; text-align: center; vertical-align: top;">
       <strong>Step 7: Override to another location</strong>
       <p>Click the Override toggle switch to select an alternative location based on the storage strategy.</p>
       <img src="asset/Receiving3.png" alt="Step 3" width="200">
+    </td>
+    <!-- Column 3 -->
+    <td style="width: 33%; text-align: center; vertical-align: top;">
+      <strong>Step 8: Putaway with lot</strong>
+      <p>Receiving with lot, you should be propted to enter a valid lot number taken from the purchase order line of that item.</p>
+      <img src="asset/putaway_lot.png" alt="Step 3" width="200">
     </td>
   </tr>
 </table>
