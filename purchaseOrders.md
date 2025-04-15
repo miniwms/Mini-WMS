@@ -48,7 +48,7 @@ The spreadsheet should consist of two sheets: "purchaseorder" and "purchaseorder
 So, it needs to be written as they are. Below are the excel sheets and their columns.
 
 The purchaseorder spreadsheet columns should contain the first row as the column names of the purchase order header fields, then, in the next rows the header information, as shown below:
-In the case below we have shown 2 orders. You can have as many as you like.
+In the case below we have shown 2 orders. You can have as many as you like.  
 
 ```
 "purchaseorder"
@@ -58,7 +58,8 @@ POrder002  Waterstones
 ```
 
 The purchaseorderline spreadsheet columns should contain the first row as the column names of the purchase order detail fields, then, in the next rows the details information, as shown below:  
-You can see below, some items are lot controlled and some are not. Also, those item requiring expiry date, it has been set, otherwise the expiry date should be set to 2100-01-01 i.e. never expires. For the fifo date default is 2000-01-01.
+You can see below, some items are lot controlled and some are not. Also, those item requiring expiry date, it has been set, otherwise the expiry date should be set to 2100-01-01 i.e. never expires. For the fifo date default is 2000-01-01.  
+
 ```
 "purchaseorderline"
 po_number   line_number   item_number     lot_num   fifo_date   expiry_date   qty_ordered  
