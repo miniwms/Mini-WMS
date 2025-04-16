@@ -48,7 +48,7 @@ The purchase order can be in one of the following statuses at any time: <br>The 
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseorder-1-1.png" alt="Step 1" style="height:500px;">
+      <img src="asset/purchaseorder-view1.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
       <img src="asset/purchaseorder-1-2.png" alt="Step 2" style="height:500px;">
