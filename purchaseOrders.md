@@ -35,10 +35,10 @@ The purchase order can be in one of the following statuses at any time: <br>The 
       <img src="asset/purchaseorder_add2.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseorder_view1.png" alt="Step 2" style="height:500px;">
+      <img src="asset/purchaseorder_add4.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseorder_view1-1.png" alt="Step 2" style="height:500px;">
+      <img src="asset/purchaseorder_add3.png" alt="Step 2" style="height:500px;">
     </td>
   </tr>
   <tr>
