@@ -4,17 +4,19 @@
 
 Purchase orders in your Mini-WMS can be added either manually or via the import of excel spreadsheet methods in the purchase order screen.
 
-The purchase order can be in one of the following statuses at any time: <br>The status goes from:<br>0 (available)<br> 2  (in receiving) When receiving work exist<br> 10 (Fully received and closed)
+The purchase order can be in one of the following statuses at any time: <br>The status goes from:<br>&nbsp;&nbsp;&nbsp;0 (available)<br>&nbsp;&nbsp;&nbsp;2  (in receiving) When receiving work exist<br>&nbsp;&nbsp;&nbsp;10 (Fully received and closed)
 
 <table>
   <tr>
-    <th>Click on the purchase Order button</th>
-    <th>This screen displays a list of purchase orders.</th>
-    <th>Click '+' to add new purchase order. If the item is lot controlled, you should see a lot field on this screen.</th>
+    <th align="left">Click on the purchase Order button</th>
+    <th align="left">This screen displays a list of <br>purchase orders.</th>
+    <th align="left">Click '+' to add new purchase order. <br>
+        If the item is lot controlled, you <br>
+        should see a lot field on this screen.</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/main1.png" alt="Step 1">
+      <img src="asset/main1.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
       <img src="asset/purchaseorder_view1.png" alt="Step 2" style="height:500px;">
@@ -24,9 +26,9 @@ The purchase order can be in one of the following statuses at any time: <br>The 
     </td>
   </tr>
   <tr>
-    <th>After you click Add, the App shows the PO header and details. To delete the purchase order click the delete button.</th>
-    <th>To add more PO lines, click the '+' sign. To delete the purchase order line click the delete button.</th>
-    <th></th>
+    <th align="left">Scroll up the Add screen to <br>populate the rest of the fields.<br>After adding the first item, you<br> add more items.</th>
+    <th align="left">After you click Add, the App<br> shows the PO header and details.<br>To delete the purchase order click<br> the delete button.</th>
+    <th align="left">To add more PO lines, click the<br> '+' sign. To delete the purchase<br> order line click the delete button.</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -36,13 +38,13 @@ The purchase order can be in one of the following statuses at any time: <br>The 
       <img src="asset/purchaseorder_view1.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseorder_view2.png" alt="Step 2" style="height:500px;">
+      <img src="asset/purchaseorder_view1-1.png" alt="Step 2" style="height:500px;">
     </td>
   </tr>
   <tr>
-    <th>When looking at the purchase order result screen, you can slide to the right to see more details.</th>
-    <th>To the right you can see the quantity ordered, quantity to put and quantity received.</th>
-    <th>By clicking on a single line, the itemline screen shows up. If the item is lot controlled, then you should be able to see a lot number on the PO line item.</th>
+    <th align="left">When looking at the purchase order <br>result screen, you can slide to <br>the right to see more details.</th>
+    <th align="left">To the right you can see the quantity<br> ordered, quantity to put and quantity<br> received.</th>
+    <th align="left">By clicking on a single line, the <br>itemline screen shows up. If the item <br>is lot controlled, then you should<br> be able to see a lot number on the<br> PO line item.</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
