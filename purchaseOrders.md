@@ -14,13 +14,13 @@ The purchase order can be in one of the following statuses at any time: <br>The 
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseOrderButton.png" alt="Step 1">
+      <img src="asset/main1.png" alt="Step 1">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseOrderScreen1.png" alt="Step 2" style="height:500px;">
+      <img src="asset/purchaseorder_view1.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseOrderScreen2.png" alt="Step 2" style="height:500px;">
+      <img src="asset/purchaseorder_add1.png" alt="Step 2" style="height:500px;">
     </td>
   </tr>
   <tr>
@@ -30,12 +30,13 @@ The purchase order can be in one of the following statuses at any time: <br>The 
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseOrderScreen3.png" alt="Step 1" style="height:500px;">
+      <img src="asset/purchaseorder_add2.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseOrderScreen4.png" alt="Step 2" style="height:500px;">
+      <img src="asset/purchaseorder_view1.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
+      <img src="asset/purchaseorder_view2.png" alt="Step 2" style="height:500px;">
     </td>
   </tr>
   <tr>
