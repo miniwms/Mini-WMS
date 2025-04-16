@@ -28,46 +28,46 @@ Each method provides flexibility to suit your operational needs and streamline s
 
 <table>
   <tr>
-    <th>Import sales orders via multiple ways.</th>
-    <th>This requires credentials to access Shopify.</th>
-    <th>Amazon and Ebay sites.</th>
+    <th style="width: 80px; white-space: normal;">Import sales orders via multiple ways.</th>
+    <th style="width: 180px; white-space: normal;">This requires credentials to access<br>Shopify.</th>
+    <th style="width: 180px; white-space: normal;">Amazon and Ebay sites.</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderImport.png" alt="Step 1">
+      <img src="asset/salesOrderImport.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderImport1.png" alt="Step 2">
+      <img src="asset/salesOrderImport1.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderImport2.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <th>List of sales orders screen.</th>
-    <th>Single sales order detail screen showing header and detail lines.</th>
-    <th>Update screen for a sales order.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderList.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderDeail.png" alt="Step 2">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderUpdate.png" alt="Step 2">
+      <img src="asset/salesOrderImport2.png" alt="Step 2" style="height:500px;">
     </td>
   </tr>
   <tr>
-    <th colspan="2">Sales order add screen.</th>
+    <th style="width: 180px; white-space: normal;">List of sales orders screen.</th>
+    <th style="width: 180px; white-space: normal;">Single sales order detail screen <br>showing header and detail lines.</th>
+    <th style="width: 180px; white-space: normal;">Update screen for a sales order.</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderAdd1.png" alt="Step 1">
+      <img src="asset/salesOrderList.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderAdd2.png" alt="Step 2">
+      <img src="asset/salesOrderDeail.png" alt="Step 2" style="height:500px;">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderUpdate.png" alt="Step 2" style="height:400px;">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="width: 180px; white-space: normal;">Sales order add screen.</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAdd1.png" alt="Step 1" style="height:500px;">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="asset/salesOrderAdd2.png" alt="Step 2" style="height:500px;">
     </td>
   </tr>
 </table>
