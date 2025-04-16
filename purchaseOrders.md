@@ -4,6 +4,8 @@
 
 Purchase orders in your Mini-WMS can be added either manually or via the import of excel spreadsheet methods in the purchase order screen.
 
+The purchase order can be in one of the following statuses at any time: <br>The status goes from:<br>0 (available)<br> 2  (in receiving) When receiving work exist<br> 10 (Fully received and closed)
+
 <table>
   <tr>
     <th>Click on the purchase Order button</th>
@@ -34,6 +36,22 @@ Purchase orders in your Mini-WMS can be added either manually or via the import 
       <img src="asset/purchaseOrderScreen4.png" alt="Step 2">
     </td>
     <td style="vertical-align: top;">
+    </td>
+  </tr>
+  <tr>
+    <th>When looking at the purchase order result screen, you can slide to the right to see more details.</th>
+    <th>To the right you can see the quantity ordered, quantity to put and quantity received.</th>
+    <th>If the item is lot controlled, then you should be able to see a lot number on the PO line item.</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/purchase-1-1.png" alt="Step 1">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="asset/purchaseOrder-1-2.png" alt="Step 2">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="asset/purchaseOrder-1-3.png" alt="Step 2">
     </td>
   </tr>
 </table>
