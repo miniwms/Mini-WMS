@@ -10,17 +10,17 @@ The purchase order can be in one of the following statuses at any time: <br>The 
   <tr>
     <th>Click on the purchase Order button</th>
     <th>This screen displays a list of purchase orders.</th>
-    <th>Click '+' to add new purchase order.</th>
+    <th>Click '+' to add new purchase order. If the item is lot controlled, you should see a lot field on this screen.</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
       <img src="asset/purchaseOrderButton.png" alt="Step 1">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseOrderScreen1.png" alt="Step 2">
+      <img src="asset/purchaseOrderScreen1.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseOrderScreen2.png" alt="Step 2">
+      <img src="asset/purchaseOrderScreen2.png" alt="Step 2" style="height:500px;">
     </td>
   </tr>
   <tr>
@@ -30,10 +30,10 @@ The purchase order can be in one of the following statuses at any time: <br>The 
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseOrderScreen3.png" alt="Step 1">
+      <img src="asset/purchaseOrderScreen3.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseOrderScreen4.png" alt="Step 2">
+      <img src="asset/purchaseOrderScreen4.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
     </td>
@@ -41,17 +41,17 @@ The purchase order can be in one of the following statuses at any time: <br>The 
   <tr>
     <th>When looking at the purchase order result screen, you can slide to the right to see more details.</th>
     <th>To the right you can see the quantity ordered, quantity to put and quantity received.</th>
-    <th>If the item is lot controlled, then you should be able to see a lot number on the PO line item.</th>
+    <th>By clicking on a single line, the itemline screen shows up. If the item is lot controlled, then you should be able to see a lot number on the PO line item.</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/purchase-1-1.png" alt="Step 1">
+      <img src="asset/purchaseorder-1-1.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseOrder-1-2.png" alt="Step 2">
+      <img src="asset/purchaseorder-1-2.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/purchaseOrder-1-3.png" alt="Step 2">
+      <img src="asset/purchaseorder-1-3.png" alt="Step 2" style="height:500px;">
     </td>
   </tr>
 </table>
