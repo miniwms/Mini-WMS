@@ -34,13 +34,13 @@ Each method provides flexibility to suit your operational needs and streamline s
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderImport.png" alt="Step 1" style="height:500px;">
+      <img src="asset/so_import1.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderImport1.png" alt="Step 2" style="height:500px;">
+      <img src="asset/so_import1.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderImport2.png" alt="Step 2" style="height:500px;">
+      <img src="asset/so_import1.png" alt="Step 2" style="height:500px;">
     </td>
   </tr>
   <tr>
@@ -50,13 +50,13 @@ Each method provides flexibility to suit your operational needs and streamline s
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderList.png" alt="Step 1" style="height:500px;">
+      <img src="asset/salesorderresults1.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderDeail.png" alt="Step 2" style="height:500px;">
+      <img src="asset/salesorderdetail1.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderUpdate.png" alt="Step 2" style="height:400px;">
+      <img src="asset/salesorderupdate1.png" alt="Step 2" style="height:400px;">
     </td>
   </tr>
   <tr>
@@ -64,10 +64,10 @@ Each method provides flexibility to suit your operational needs and streamline s
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderAdd1.png" alt="Step 1" style="height:500px;">
+      <img src="asset/salesorderadd1.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/salesOrderAdd2.png" alt="Step 2" style="height:500px;">
+      <img src="asset/salesorderadd2.png" alt="Step 2" style="height:500px;">
     </td>
   </tr>
 </table>
