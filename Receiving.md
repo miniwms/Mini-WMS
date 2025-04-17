@@ -46,7 +46,7 @@
       <img src="asset/receiving5.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving6.png" alt="Step 2" style="height:500px;">
+      <img src="asset/receiving9.png" alt="Step 2" style="height:500px;">
     </td>
   </tr>
   <tr>
@@ -56,13 +56,27 @@
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/receiving7.png" alt="Step 1" style="height:500px;">
+      <img src="asset/receiving10.png" alt="Step 1" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving8.png" alt="Step 2" style="height:500px;">
+      <img src="asset/receiving6.png" alt="Step 2" style="height:500px;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving9.png" alt="Step 2" style="height:500px;">
+      <img src="asset/receiving7.png" alt="Step 2" style="height:500px;">
+    </td>
+  </tr>
+    <tr>
+    <th align="left"><strong>Step 6: Put away to system location</strong>The Mini-WMS app directs you to the system-generated location. Put the stock in the shown location and click the "Put Away" button.</th>
+    <th align="left">.</th>
+    <th align="left"></th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="asset/receiving8.png" alt="Step 1" style="height:500px;">
+    </td>
+    <td style="vertical-align: top;">
+    </td>
+    <td style="vertical-align: top;">
     </td>
   </tr>
 </table>
