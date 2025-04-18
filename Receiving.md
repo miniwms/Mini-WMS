@@ -18,9 +18,9 @@
 <h2>Receiving Process</h2>
 <table>
   <tr>
-    <th align="left"><strong>Step 1: Check purchase order details. The PO is at status Available.</strong></th>
-    <th align="left"><strong>Step 2: Check the quantities too.</strong></th>
-    <th align="left"><strong>Step 3: Click receive button to generate put away work.</strong></th>
+    <th align="left"><strong>Step 1:</strong> Click on the 'Purchase Order' button.</th>
+    <th align="left"><strong>Step 2:</strong> On the result screen tap<br>on a single PO to check the purchase<br>order details. The PO is at status Available.</th>
+    <th align="left"><strong>Step 3:</strong> Check the quantities ordered</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -34,9 +34,9 @@
     </td>
   </tr>
   <tr>
-    <th align="left"><strong>Step 4: PO is ready to put away.</strong> You can see the status has changed to Receiving. You can verify that the quantity to put is now equal to the quantity ordered.</th>
-    <th align="left"><strong>Step 5: Click on the 'Put Stock' button.</strong></th>
-    <th align="left"><strong>Step 5: PO ready to put away</strong>Verify your purchase order is in the dropdown list.</th>
+    <th align="left"><strong>Step 4:</strong> Click the 'Receive' button to generate put away work.</th>
+    <th align="left">The PO is ready to put away.</strong> You can<br>see the status has changed to Receiving.<br>You can also verify that the quantity to<br>put is now equal to the quantity ordered.<br>On the Purchase Order Detail screen, slide<br>to the left and check the quantoties.</th>
+    <th align="left">Navigate to the 'Stock Results' screen.</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -50,9 +50,9 @@
     </td>
   </tr>
   <tr>
-    <th align="left"><strong>Step 6: Put away to system location</strong>The Mini-WMS app directs you to the system-generated location. Put the stock in the shown location and click the "Put Away" button.</th>
-    <th align="left"><strong>Step 7: Override to another location</strong>Click the Override toggle switch to select an alternative location based on the storage strategy.</th>
-    <th align="left"><strong>Step 8: Putaway with lot</strong>Receiving with lot, you should be propted to enter a valid lot number taken from the purchase order line of that item.</th>
+    <th align="left">Check that the itemloc has incoming expected stock in the 'QTP', quantity to put column.</th>
+    <th align="left"><strong>Step 5: Your Purchase Order is ready<br>to put away</strong> In the 'Put Away Stock' screen, verify it is in the dropdown list. Then click Next.</th>
+    <th align="left"><strong>Step 6: Put away to a location.<br>The Mini-WMS app directs you to the<br>system-generated location. Put the stoc in the shown location and click the "Put Away" button.</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
@@ -66,7 +66,7 @@
     </td>
   </tr>
     <tr>
-    <th align="left"><strong>Step 6: Put away to system location</strong>The Mini-WMS app directs you to the system-generated location. Put the stock in the shown location and click the "Put Away" button.</th>
+    <th align="left"><strong>Step 7: Override to another location:<br>Click the Override toggle switch to select an alternative location based on the storage strategy.</th>
     <th align="left">.</th>
     <th align="left"></th>
   </tr>
