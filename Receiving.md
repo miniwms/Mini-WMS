@@ -16,6 +16,7 @@
 <p>To action the putaway work, you need to navigate to the "Put Away Stock" screen by clicking the "Put Stock" button from the home screen.</p>
 
 <h2>Receiving Process</h2>
+<div style="overflow-x: auto;">
 <table>
   <tr>
     <th align="left"><strong>Step 1:</strong> Click on the 'Purchase Order' button.</th>
@@ -97,3 +98,4 @@
     </td>
   </tr>
 </table>
+</div>
