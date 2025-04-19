@@ -1,101 +1,71 @@
 [← Back](README.md)
 
-<h1>Receive and Putaway Process</h1>
-<p>The receiving process involves the following steps:</p>
-<ul>
-  <li>From home screen, click on the Purchase order button.</li>
-  <li>Navigate to a single purchase order view screen.</li>
-  <li>By clicking the Receive button you will initiate the receiving process.</li>
-  <li>This process will generate put away work for all the items on this purchase order.</li>
-  <li>'On the purchase Order Details' screen slide to the left, you should see the 'Quantity To Put' column populated. This shows work was indeed generated.</li>
-  <li>Also you will notice the 'Receive' button is not available any more, as there is no need for it.</li>
-  <li>This process can putaway with lot numbers if the item is set for lot control.</li>
-  <li>It also allows you to override the putaway to a different location other than the proposed location.</li>
-</ul>
+# Receive and Putaway Process
 
-<p>To action the putaway work, you need to navigate to the "Put Away Stock" screen by clicking the "Put Stock" button from the home screen.</p>
+The receiving process involves the following steps:
 
-<h2>Receiving Process</h2>
-<div style="overflow-x: auto;">
-<table>
-  <tr>
-    <th align="left"><strong>Step 1:</strong> Click on the 'Purchase Order' button.</th>
-    <th align="left"><strong>Step 2:</strong> On the result screen tap<br>on a single PO to check the purchase<br>order details. The PO is at status Available.</th>
-    <th align="left"><strong>Step 3:</strong> Check the quantities ordered</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving1.png" alt="Step 1" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving2.png" alt="Step 2" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving3.png" alt="Step 2" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
-  <tr>
-    <th align="left"><strong>Step 4:</strong> Click the 'Receive' button to generate put away work.</th>
-    <th align="left">The PO is ready to put away.</strong> You can<br>see the status has changed to Receiving.<br>You can also verify that the quantity to<br>put is now equal to the quantity ordered.<br>On the Purchase Order Detail screen, slide<br>to the left and check the quantoties.</th>
-    <th align="left">Navigate to the 'Stock Results' screen.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving4.png" alt="Step 1" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving5.png" alt="Step 2" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving9.png" alt="Step 2" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
-  <tr>
-    <th align="left">Check that the itemloc has incoming expected stock in the 'QTP', quantity to put column.</th>
-    <th align="left"><strong>Step 5: Your Purchase Order is ready<br>to put away</strong> In the 'Put Away Stock' screen, verify it is in the dropdown list. Then click Next.</th>
-    <th align="left"><strong>Step 6: Put away to a location.<br>The Mini-WMS app directs you to the<br>system-generated location. Put the stoc in the shown location and click the "Put Away" button.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving10.png" alt="Step 1" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving6.png" alt="Step 2" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving7.png" alt="Step 2" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
-  <tr>
-    <th align="left"><strong>Step 7: Override to another location:<br>Click the Override toggle switch to select an alternative location based on the storage strategy.</th>
-    <th align="left">If you receive the full quantity, the system<br>will prompt you for the second putaway.<br>Otherwise, if you try to put less than the full quantity, a popup shows up asking<br>you if you want to put the rest later ors hort pick the rest.</th>
-    <th align="left">If you chose to putaway later, <br>then the rest will be left for later picking. If you chose to Short pick,<br>then a new popup will show up.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving8.png" alt="Step 1" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving11.png" alt="Step 1" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving12.png" alt="Step 1" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
-  <tr>
-    <th align="left"><strong>If you click 'Damaged', then you need to select from the dropdown locations, where to put the damaged quantity.</th>
-    <th align="left">If you click 'Something else', then you need to enter the reason. Example, stock will be returned...etc</th>
-    <th align="left"></th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving13.png" alt="Step 1" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/receiving14.png" alt="Step 1" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-    </td>
-  </tr>
-</table>
-</div>
+- From home screen, click on the Purchase order button.
+- Navigate to a single purchase order view screen.
+- By clicking the Receive button you will initiate the receiving process.
+- This process will generate put away work for all the items on this purchase order.
+- 'On the purchase Order Details' screen slide to the left, you should see the 'Quantity To Put' column populated. This shows work was indeed generated.
+- Also you will notice the 'Receive' button is not available any more, as there is no need for it.
+- This process can putaway with lot numbers if the item is set for lot control.
+- It also allows you to override the putaway to a different location other than the proposed location.
+
+To action the putaway work, you need to navigate to the "Put Away Stock" screen by clicking the "Put Stock" button from the home screen.
+
+---
+
+## Step 1: Click on the 'Purchase Order' button  
+![Step 1](asset/receiving1.png)
+
+## Step 2: Tap on a single PO to check the details  
+The PO should be at status **Available**.  
+![Step 2](asset/receiving2.png)
+
+## Step 3: Check the quantities ordered  
+![Step 3](asset/receiving3.png)
+
+## Step 4: Click the 'Receive' button  
+This generates put away work.  
+![Step 4](asset/receiving4.png)
+
+## Step 5: PO is ready to put away  
+Status changes to **Receiving** and 'Quantity To Put' matches ordered.  
+![Step 5](asset/receiving5.png)
+
+## Step 6: Navigate to the 'Stock Results' screen  
+![Step 6](asset/receiving9.png)
+
+## Step 7: Confirm 'QTP' (Quantity to Put) values  
+This shows incoming expected stock.  
+![Step 7](asset/receiving10.png)
+
+## Step 8: Verify PO is in the dropdown list  
+Then click **Next** on the 'Put Away Stock' screen.  
+![Step 8](asset/receiving6.png)
+
+## Step 9: Put away to a system-suggested location  
+Put stock and click "Put Away".  
+![Step 9](asset/receiving7.png)
+
+## Step 10: Override location (optional)  
+Click the **Override** toggle to choose another location.  
+![Step 10](asset/receiving8.png)
+
+## Step 11: If full quantity is received  
+The system may prompt for a second putaway.  
+![Step 11](asset/receiving11.png)
+
+## Step 12: If short picked or later putaway selected  
+The system shows appropriate popup.  
+![Step 12](asset/receiving12.png)
+
+## Step 13: Mark as 'Damaged'  
+Select from dropdown where to put damaged stock.  
+![Step 13](asset/receiving13.png)
+
+## Step 14: If 'Something else' is selected  
+Enter the reason (e.g., stock will be returned).  
+![Step 14](asset/receiving14.png)
