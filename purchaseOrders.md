@@ -6,59 +6,61 @@ Purchase orders in your Mini-WMS can be added either manually or via the import 
 
 The purchase order can be in one of the following statuses at any time: <br>The status goes from:<br>&nbsp;&nbsp;&nbsp;0 (available)<br>&nbsp;&nbsp;&nbsp;2  (in receiving) When receiving work exist<br>&nbsp;&nbsp;&nbsp;10 (Fully received and closed)
 
-<table>
-  <tr>
-    <th align="left">Click on the purchase Order button</th>
-    <th align="left">This screen displays a list of <br>purchase orders.</th>
-    <th align="left">Click '+' to add new purchase order. <br>
-        If the item is lot controlled, you <br>
-        should see a lot field on this screen.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/main1.png" alt="Step 1" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/purchaseorder_view1.png" alt="Step 2" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/purchaseorder_add1.png" alt="Step 2" style="height:500px;">
-    </td>
-  </tr>
-  <tr>
-    <th align="left">Scroll up the Add screen to <br>populate the rest of the fields.<br>After adding the first item, you<br> add more items.</th>
-    <th align="left">After you click Add, the App<br> shows the PO header and details.<br>To delete the purchase order click<br> the delete button.</th>
-    <th align="left">To add more PO lines, click the<br> '+' sign. To delete the purchase<br> order line click the delete button.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/purchaseorder_add2.png" alt="Step 1" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/purchaseorder_add4.png" alt="Step 2" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/purchaseorder_add3.png" alt="Step 2" style="height:500px;">
-    </td>
-  </tr>
-  <tr>
-    <th align="left">When looking at the purchase order <br>result screen, you can slide to <br>the right to see more details.</th>
-    <th align="left">To the right you can see the quantity<br> ordered, quantity to put and quantity<br> received.</th>
-    <th align="left">By clicking on a single line, the <br>itemline screen shows up. If the item <br>is lot controlled, then you should<br> be able to see a lot number on the<br> PO line item.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/purchaseorder_view1.png" alt="Step 1" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/purchaseorder-1-2.png" alt="Step 2" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/purchaseorder-1-3.png" alt="Step 2" style="height:500px;">
-    </td>
-  </tr>
-</table>
+## Step 1: Click on the Purchase Order button  
+![Main Menu](asset/main1.png)
 
+---
+
+## Step 2: This screen displays a list of purchase orders  
+![PO View Screen](asset/purchaseorder_view1.png)
+
+---
+
+## Step 3: Click '+' to add new purchase order  
+If the item is lot controlled, you should see a lot field on this screen.  
+![Add PO](asset/purchaseorder_add1.png)
+
+---
+
+## Step 4: Scroll up the Add screen to populate the rest of the fields  
+After adding the first item, you can add more items.  
+![Scroll and Add](asset/purchaseorder_add2.png)
+
+---
+
+## Step 5: After you click Add  
+The App shows the PO header and details.  
+To delete the purchase order, click the delete button.  
+![PO Header and Details](asset/purchaseorder_add4.png)
+
+---
+
+## Step 6: To add more PO lines  
+Click the '+' sign.  
+To delete the purchase order line, click the delete button.  
+![Add PO Line](asset/purchaseorder_add3.png)
+
+---
+
+## Step 7: When looking at the purchase order result screen  
+You can slide to the right to see more details.  
+![Slide for More Details](asset/purchaseorder_view1.png)
+
+---
+
+## Step 8: To the right of the screen, you can see  
+The quantity ordered, quantity to put, and quantity received.  
+![Quantity Info](asset/purchaseorder-1-2.png)
+
+---
+
+## Step 9: By clicking on a single line  
+The itemline screen shows up.  
+If the item is lot controlled, then you should be able to see a lot number on the PO line item.  
+![PO Line with Lot Number](asset/purchaseorder-1-3.png)
+
+
+    
 **Import process: The format of the Excel file to Import**:  
 - You need to fill in two sheets:  
   - One for purchase order headers.  
