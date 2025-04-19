@@ -25,13 +25,13 @@
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/receiving1.png" alt="Step 1" style="height:500px;">
+      <img src="asset/receiving1.png" alt="Step 1" style="max-width: 100%; height: auto;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving2.png" alt="Step 2" style="height:500px;">
+      <img src="asset/receiving2.png" alt="Step 2" style="max-width: 100%; height: auto;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving3.png" alt="Step 2" style="height:500px;">
+      <img src="asset/receiving3.png" alt="Step 2" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
@@ -41,13 +41,13 @@
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/receiving4.png" alt="Step 1" style="height:500px;">
+      <img src="asset/receiving4.png" alt="Step 1" style="max-width: 100%; height: auto;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving5.png" alt="Step 2" style="height:500px;">
+      <img src="asset/receiving5.png" alt="Step 2" style="max-width: 100%; height: auto;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving9.png" alt="Step 2" style="height:500px;">
+      <img src="asset/receiving9.png" alt="Step 2" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
@@ -57,13 +57,13 @@
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/receiving10.png" alt="Step 1" style="height:500px;">
+      <img src="asset/receiving10.png" alt="Step 1" style="max-width: 100%; height: auto;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving6.png" alt="Step 2" style="height:500px;">
+      <img src="asset/receiving6.png" alt="Step 2" style="max-width: 100%; height: auto;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving7.png" alt="Step 2" style="height:500px;">
+      <img src="asset/receiving7.png" alt="Step 2" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
@@ -73,13 +73,13 @@
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/receiving8.png" alt="Step 1" style="height:500px;">
+      <img src="asset/receiving8.png" alt="Step 1" style="max-width: 100%; height: auto;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving11.png" alt="Step 1" style="height:500px;">
+      <img src="asset/receiving11.png" alt="Step 1" style="max-width: 100%; height: auto;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving12.png" alt="Step 1" style="height:500px;">
+      <img src="asset/receiving12.png" alt="Step 1" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
@@ -89,10 +89,10 @@
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <img src="asset/receiving13.png" alt="Step 1" style="height:500px;">
+      <img src="asset/receiving13.png" alt="Step 1" style="max-width: 100%; height: auto;">
     </td>
     <td style="vertical-align: top;">
-      <img src="asset/receiving14.png" alt="Step 1" style="height:500px;">
+      <img src="asset/receiving14.png" alt="Step 1" style="max-width: 100%; height: auto;">
     </td>
     <td style="vertical-align: top;">
     </td>
