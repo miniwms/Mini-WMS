@@ -68,7 +68,7 @@
   <tr>
     <th align="left"><strong>Step 7: Override to another location:<br>Click the Override toggle switch to select an alternative location based on the storage strategy.</th>
     <th align="left">If you receive the full quantity, the system<br>will prompt you for the second putaway.<br>Otherwise, if you try to put less than the full quantity, a popup shows up asking<br>you if you want to put the rest later ors hort pick the rest.</th>
-    <th align="left">If you chose to putaway later, then the rest will be left for later picking. If you chose to Short pick, then a new popup will show up.</th>
+    <th align="left">If you chose to putaway later, <br>then the rest will be left for later picking. If you chose to Short pick,<br>then a new popup will show up.</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
