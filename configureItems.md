@@ -40,7 +40,7 @@ Tap on an item in the list to view and edit its details.
 
 ### Item Add  
 From the Item Results screen, click on the '+' sign to add new item to your stock. You can also add or update an item's image using the picture input section.  
-![Step 2](asset/itemEdit1.png)
+![Step 2](asset/item4.png)
 
 
 
