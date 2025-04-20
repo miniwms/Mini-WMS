@@ -16,9 +16,32 @@ Click on the Item button to setup the items/SKUs
 
 The item number can be your barcode number (you can scan it) or contains alphanumerical values.
 
-| List of items/SKUs | Item edit | Item edit picture input |
-| ------------ | ----------- | ----------- |
-| ![Step 1](asset/itemList.png) |  ![Step 2](asset/itemEdit.png) | ![Step 2](asset/itemEdit1.png)|
+### From main menu click on the SetUp button  
+![Step 1](asset/picking0.png)
+
+---
+
+### From the SetUp screen click on the Item button  
+![Step 1](asset/SetUp.png)
+
+---
+
+### The Item results screen appears  
+From this screen you can add new item, also you can upload a list of items in excel spreadsheet using the 'Import Items' button.
+![Step 1](asset/item2.png)
+
+---
+
+### Item Edit  
+Tap on an item in the list to view and edit its details.  
+![Step 2](asset/item3.png)
+
+---
+
+### Item Add  
+From the Item Results screen, click on the '+' sign to add new item to your stock. You can also add or update an item's image using the picture input section.  
+![Step 2](asset/itemEdit1.png)
+
 
 
 The item/SKU can be imported via excel spreadsheet.  
