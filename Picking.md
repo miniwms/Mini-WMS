@@ -63,7 +63,15 @@ Some stock can be serial number controlled like Phones/Laptops ...etc.
 <img src="asset/picking6.png" alt="Short Pick" style="max-width: 100%; height: auto;">  
 
 ---
-### Serial Number Controlled imput screen  
-If the item is serial number controlled, then you must enter a serial number for **each item**.  
-<img src="asset/picking7.png" alt="Serial Number Entry" style="max-width: 100%; height: auto;">  
 
+### Here the item is serial Number Controlled.    
+The item screen should have the serial control flag set/ticked.  
+<img src="asset/picking8.png" alt="Serial Number Entry" style="max-width: 100%; height: auto;">  
+
+---
+
+### Picking a serial number controlled item.  
+Some stock can be serial number controlled like Phones/Laptops ...etc.    
+<img src="asset/picking6.png" alt="Short Pick" style="max-width: 100%; height: auto;">  
+
+---
