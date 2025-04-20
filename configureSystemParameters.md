@@ -16,17 +16,12 @@ the other fields are:
 - Amazon's credentials. This allows the Mini-WMS app to connect to you Amazon store and extract your open sales orders.
 - Ebay's credentials. This allows the Mini-WMS app to connect to you Ebay store and extract your open sales orders.
   
-<table>
-  <tr>
-    <th colspan="2">Screen to hold the App's system parameters screen.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/systemParameters.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/systemParameters1.png" alt="Step 2">
-    </td>
-  </tr>
-</table>
+### System Parameters Screen  
+This section shows the screen where the app’s system parameters are held and can be updated.
+
+---
+
+![Step 1](asset/systemParameters.png)  
+![Step 2](asset/systemParameters1.png)
+
 
