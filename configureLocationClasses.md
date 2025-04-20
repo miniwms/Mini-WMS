@@ -36,7 +36,6 @@ Tap on one entry from the result list, the update screen appears enabling you to
 From the results screen, click on the '+' sign, the Add screen will appear.  
 ![Step 1](asset/locclass3.png)
 
----
 
 - Click the Location class button, the next screen will display the list of existing location classes in order of location class numbers.
 - You can add new location class by using the + button from the location class result screen.
