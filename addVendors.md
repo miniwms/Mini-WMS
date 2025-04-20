@@ -15,13 +15,14 @@ This screen shows a list of vendors.
 
 ---
 
-### Add New Vendor  
-This is the screen to add a new vendor.  
-<img src="asset/vendor3.png" alt="Add Vendor" style="max-width: 100%; height: auto;">  
+### Update Existing Vendor  
+Click on one of the lines in the vendor list. The update screen will appear, allowing you to modify the details of the selected vendor.
+<img src="asset/vendor2.png" alt="Update Vendor" style="max-width: 100%; height: auto;">  
 
 ---
 
-### Update Existing Vendor  
-This screen allows you to update details of an existing vendor.  
-<img src="asset/vendor2.png" alt="Update Vendor" style="max-width: 100%; height: auto;">  
+### Add New Vendor  
+From the vendor list screen, click on the '+' sign to add new vendor. This screen below will appear.  
+<img src="asset/vendor3.png" alt="Add Vendor" style="max-width: 100%; height: auto;">  
+
 
