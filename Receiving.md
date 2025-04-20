@@ -51,7 +51,7 @@ On the Purchase Order Detail screen, slide to the left and check the quantities.
 ---
 
 ## Step 7: Check Quantity to put:  
-that the item location (itemloc) has incoming expected stock in the 'QTP' (Quantity to Put) column
+that the item location (itemloc) has incoming expected stock in the 'QTP' (Quantity to Put) column.  
 ![Step 7](asset/receiving10.png)
 
 ---
