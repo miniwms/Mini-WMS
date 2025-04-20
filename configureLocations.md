@@ -14,6 +14,37 @@ We have adopted the following location labelling system:
 ![Step 1](asset/locations.png)
 ![Step 2](asset/locationsAdd.png)
 
+### From the main menu 
+click the SetUp button, then on the SetUp screen click on the location button.  
+![Step 1](asset/SetUp.png)
+
+---
+
+### The location result screen  
+This screen will show you a list of available locations.  
+* You can add new entries by clicking on the '+' sign.  
+* You can import a prepared list of location in a spreadsheet by clicking on the 'Import Locations' button.  
+* You can delete one or multiple locations by clicking on the 'bin' button.  
+![Step 2](asset/locclass1.png)
+
+---
+
+### Add screen  
+From the results screen, click on the '+' sign, the Add screen will appear.  
+You have to enter starting location like A00101, ending location like A00909.  
+You have to give these new locations a location class.  
+You have to also give them dimensions  
+![Step 1](asset/locclass3.png)
+
+---
+
+### Delete screen  
+From the results screen, click on the 'bin' sign, the 'Delete Locations' screen will appear.  
+Enter start/end locations, to delete a range of location.  
+To delete one single location, make the start location same as end location.  
+![Step 1](asset/locclass2.png)
+
+
 - Click the Location button, the next screen will display the list of existing locations in alphabetical order.
 - You can add new locations by using the + button from the locations result screen. To do so, enter the starting and ending locations in this format: starting location `A10000` and end location `A30505`. Enter a location class and length, width & height. `A1` and `A3` represent the Aisle number, the second two digits represent the rows, and the last two represent the column.
 - This will generate 96 physical locations belonging to a single location class with identical dimensions. You can repeat the same process to generate other sets of locations with different location classes.
