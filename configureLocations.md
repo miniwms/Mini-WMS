@@ -24,7 +24,7 @@ This screen will show you a list of available locations.
 * You can add new entries by clicking on the '+' sign.  
 * You can import a prepared list of location in a spreadsheet by clicking on the 'Import Locations' button.  
 * You can delete one or multiple locations by clicking on the 'bin' button.
-* Scrol to the left to see more fields.
+* Scrol to the left to see more fields.  
 ![Step 2](asset/location1.png)
 
 ---
