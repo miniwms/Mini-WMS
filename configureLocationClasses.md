@@ -14,25 +14,26 @@ Each location class can represent a group of bins or shelves that share common a
 ![Step 1](asset/locationClass.png)
 
 ### From the main menu 
-click the SetUp button, then on the SetUp screen click on the location class button  
+click the SetUp button, then on the SetUp screen click on the location class button.  
 ![Step 1](asset/SetUp.png)
 
 ---
 
 ### The location class result screen  
-You add new entries by clicking on the '+' sign. Also, you can delete an entry by clicking on the bin button on the right.
+This screen will show you a list of available location classes.  
+You can add new entries by clicking on the '+' sign. Also, you can delete an entry by clicking on the bin button on the right.  
 ![Step 2](asset/locclass1.png)
 
 ---
 
 ### Update screen  
-Tap on one entry from the result list, the update screen appears enabling you to update the record.
+Tap on one entry from the result list, the update screen appears enabling you to update the record.  
 ![Step 1](asset/locclass2.png)
 
 ---
 
 ### Add screen  
-From the results screen, click on the '+' sign, the Add screen will appear.
+From the results screen, click on the '+' sign, the Add screen will appear.  
 ![Step 1](asset/locclass3.png)
 
 ---
