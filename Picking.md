@@ -72,6 +72,6 @@ The item screen should have the serial control flag set/ticked.
 
 ### Picking a serial number controlled item.  
 Some stock can be serial number controlled like Phones/Laptops ...etc.    
-<img src="asset/picking6.png" alt="Short Pick" style="max-width: 100%; height: auto;">  
+<img src="asset/picking7.png" alt="Short Pick" style="max-width: 100%; height: auto;">  
 
 ---
