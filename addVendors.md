@@ -9,21 +9,19 @@ Click on the Vendor button to
 - Add new vendors.
 - Update or delete existing vendors.  
 
-<table>
-  <tr>
-    <th>List of vendors on the result screen.</th>
-    <th>Screen to add new vendor.</th>
-    <th>Screen to update existing vendor.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/vendorResult.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/vendorAdd.png" alt="Step 2">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/vendorUpdate.png" alt="Step 2">
-    </td>
-  </tr>
-</table>
+### Vendor List  
+This screen shows a list of vendors.  
+<img src="asset/vendor1.png" alt="Vendor List" style="max-width: 100%; height: auto;">  
+
+---
+
+### Add New Vendor  
+This is the screen to add a new vendor.  
+<img src="asset/vendor3.png" alt="Add Vendor" style="max-width: 100%; height: auto;">  
+
+---
+
+### Update Existing Vendor  
+This screen allows you to update details of an existing vendor.  
+<img src="asset/vendor2.png" alt="Update Vendor" style="max-width: 100%; height: auto;">  
+
