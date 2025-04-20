@@ -23,28 +23,47 @@ Mini-WMS supports advanced picking options for enhanced traceability and accurac
 - You can pick the entire order into a single container, or distribute it across multiple containers as needed.
 - This flexibility ensures accurate and efficient order fulfillment, tailored to your warehouse operations.
 
-<table>
-  <tr>
-    <td style="width: 50%; text-align: left;">Step 1: PO ready for picking</td>
-    <td style="width: 50%; text-align: left;">Step 2: Picking from a location. If the item is lot control, you have to provide a lot number.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate10.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate11.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: left;">You can pick the whole quantity at once, Or part of the whole quantity and leave the rest for later. Or you can short pick whole quantity or some. If it is lot control and you want to short pick, you have to enter zero in the quantity field.</td>
-    <td style="width: 50%; text-align: left;">If the item is serial number control, then you have to enter a serial number for every each.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate12.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate13.png" alt="Step 2">
-    </td>
-  </tr>
+### Step 1: Make sure an order is allocated.  
+<img src="asset/Picking1.png" alt="Step 1" style="max-width: 100%; height: auto;">  
+
+---
+
+### Step 1: From main screen, click on the 'Pick Stock' button.  
+<img src="asset/Picking0.png" alt="Step 1" style="max-width: 100%; height: auto;">  
+
+---
+
+### Step 1: Sales Order is ready for picking  
+You should see your SO in the dropdown.
+<img src="asset/Picking2.png" alt="Step 1" style="max-width: 100%; height: auto;">  
+
+---
+
+### Step 2: Picking from a location  
+If the item is lot controlled, you have to provide a lot number.  
+<img src="asset/Picking3.png" alt="Step 2" style="max-width: 100%; height: auto;">  
+
+---
+
+### Picking Options  
+You can pick the whole quantity at once, or part of it and leave the rest for later. You can also short pick some or all of it.    
+<img src="asset/Picking4.png" alt="Short Pick" style="max-width: 100%; height: auto;">  
+
+---
+
+### Short picking  
+You can short pick some or all of it.  
+> ⚠️ If the item is **lot controlled** and you want to short pick, you **must enter zero** in the quantity field.  
+<img src="asset/Picking5.png" alt="Short Pick" style="max-width: 100%; height: auto;">  
+
+---
+
+### Picking a serial number controlled item.  
+Some stock can be serial number controlled like Phones/Laptops ...etc.    
+<img src="asset/Picking6.png" alt="Short Pick" style="max-width: 100%; height: auto;">  
+
+---
+### Serial Number Controlled imput screen  
+If the item is serial number controlled, then you must enter a serial number for **each item**.  
+<img src="asset/Picking7.png" alt="Serial Number Entry" style="max-width: 100%; height: auto;">  
+
