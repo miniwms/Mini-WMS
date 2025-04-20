@@ -21,7 +21,7 @@ This section shows the screen where the app’s system parameters are held and c
 
 ---
 
-![Step 1](asset/systemParameters.png)  
-![Step 2](asset/systemParameters1.png)
+![Step 1](asset/systemparam1.png)  
+![Step 2](asset/systemparam2.png)
 
 
