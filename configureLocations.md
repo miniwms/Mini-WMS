@@ -11,8 +11,7 @@ We have adopted the following location labelling system:
 - **05** represents the **Row number**, referring to the horizontal line of storage within the aisle.
 - **10** represents the **Column number**, identifying the vertical position or specific bin within the row.
 
-![Step 1](asset/locations.png)
-![Step 2](asset/locationsAdd.png)
+![Step 1](asset/locations.png)  
 
 ### From the main menu 
 click the SetUp button, then on the SetUp screen click on the location button.  
@@ -25,24 +24,24 @@ This screen will show you a list of available locations.
 * You can add new entries by clicking on the '+' sign.  
 * You can import a prepared list of location in a spreadsheet by clicking on the 'Import Locations' button.  
 * You can delete one or multiple locations by clicking on the 'bin' button.  
-![Step 2](asset/locclass1.png)
+![Step 2](asset/location1.png)
 
 ---
 
 ### Add screen  
 From the results screen, click on the '+' sign, the Add screen will appear.  
-You have to enter starting location like A00101, ending location like A00909.  
-You have to give these new locations a location class.  
-You have to also give them dimensions  
-![Step 1](asset/locclass3.png)
+* You have to enter starting location like A00101, ending location like A00909.  
+* You have to give these new locations a location class.  
+* You have to also give them dimensions  
+![Step 1](asset/location2.png)
 
 ---
 
 ### Delete screen  
 From the results screen, click on the 'bin' sign, the 'Delete Locations' screen will appear.  
-Enter start/end locations, to delete a range of location.  
-To delete one single location, make the start location same as end location.  
-![Step 1](asset/locclass2.png)
+* Enter start/end locations, to delete a range of location.  
+* To delete one single location, make the start location same as end location.  
+![Step 1](asset/location3.png)
 
 
 - Click the Location button, the next screen will display the list of existing locations in alphabetical order.
