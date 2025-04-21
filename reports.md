@@ -14,53 +14,57 @@ Except the Stock integrity report, where action needs to be taken to rectify all
 The rest of the reports are self explanatory.  
 
   
-<table>
-  <tr>
-    <td style="width: 50%; text-align: left;">Available reports and charts.</td>
-    <td style="width: 50%; text-align: left;">Stock intergity report.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/reports1.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/reportStockIntegrity.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: left;">Slod items per month.</td>
-    <td style="width: 50%; text-align: left;">Income per month.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/reports2.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/reports3.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: left;">Available pick and putaway work.</td>
-    <td style="width: 50%; text-align: left;">Available sales and purchase orders.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/reports4.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/reports5.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: left;">Sales order progress by status.</td>
-    <td style="width: 50%; text-align: left;">Purchase order progress by status.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/reports6.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/reports7.png" alt="Step 2">
-    </td>
-  </tr>
-</table>
+### ✅ Available reports and charts
+
+Available reports and charts.  
+![Available reports and charts](asset/reports1.png)
+
+---
+
+### 📦 Stock integrity report
+
+Stock integrity report.  
+![Stock integrity report](asset/reportStockIntegrity.png)
+
+---
+
+### 📊 Sold items per month
+
+Sold items per month.  
+![Sold items per month](asset/reports2.png)
+
+---
+
+### 💰 Income per month
+
+Income per month.  
+![Income per month](asset/report1.png)
+
+---
+
+### 🚚 Available pick and putaway work
+
+Available pick and putaway work.  
+![Available pick and putaway work](asset/report2.png)
+
+---
+
+### 🧾 Available sales and purchase orders
+
+Available sales and purchase orders.  
+![Available sales and purchase orders](asset/report3.png)
+
+---
+
+### 📈 Sales order progress by status
+
+Sales order progress by status.  
+![Sales order progress](asset/report4.png)
+
+---
+
+### 🛒 Purchase order progress by status
+
+Purchase order progress by status.  
+![Purchase order progress](asset/report5.png)
+
