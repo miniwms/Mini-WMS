@@ -19,17 +19,20 @@ Click the "Stock Count" button on the main screen.
   
 Stock counting ensures your inventory data remains accurate, improving stock management and operational efficiency.  
 
-<table>
-  <tr>
-    <td style="width: 50%; text-align: left;">Searching stock by item.</td>
-    <td style="width: 50%; text-align: left;">Searching stock by location</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/stockCount1.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/stockCount2.png" alt="Step 2">
-    </td>
-  </tr>
-</table>
+### Stock Count Search Options
+
+---
+
+**Option 1:** Searching stock by item and update if necessary.  
+If there are multiple lot numbers in the itemloc, then all those lots should be seen in the lot dropdown.  
+
+![Search by Item](asset/stockcount1.png)
+
+---
+
+**Option 2:** Searching stock by location and update if necessary.  
+If the item exists in multiple locations, then all those locations should be seen in the location dropdown.  
+If there are multiple lot numbers in the itemloc, then all those lots should be seen in the lot dropdown.  
+
+![Search by Location](asset/stockcount2.png)
+
