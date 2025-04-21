@@ -12,8 +12,11 @@ The initial configuration involves the following steps:
 - [Setup the purchase order vendors](addVendors.md)
 - [Setup the System parameters](configureSystemParameters.md)
 
-Proper configuration of the above steps will streamline receiving, order allocation, and picking processes in your mini-warehouse, helping you maintain a high fulfillment rate and strong stock integrity.
+Proper configuration of the above steps will streamline receiving, order allocation, and picking processes in your mini-warehouse.  
+This will help you maintain a high fulfillment rate and strong stock integrity.
 
-![Step 1](asset/mainScreen.png)
-![Step 2](asset/miniWMSSetup.png)
+To get to the **SetUp** screen click on the SetUp button at the bottom.  
+
+![Step 1](asset/picking0.png)  
+![Step 2](asset/SetUp.png)
 
