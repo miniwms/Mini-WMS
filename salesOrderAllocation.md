@@ -45,38 +45,43 @@ The system checks real-time stock availability in the warehouse to determine if 
 ---
 
 **Step 1:** View the sales order you want to allocate  
-![Step 1](asset/salesOrderDetail1.png)
+
+![Step 1](asset/allocate1.png)
 
 ---
 
 **Step 2:** Check the quantity ordered  
-![Step 2](asset/salesOrderDetail2.png)
+
+![Step 2](asset/allocate2.png)
 
 ---
 
 **Step 3:** With Sales order `SAL0001`, after clicking on the **Allocate** button, a popup shows the percentage of quantity allocated.  
 In this case, not all stock can be fully allocated. You have the choice to abort or continue.  
-![Step 3](asset/salesOrderAllocate1.png)
+
+![Step 3](asset/allocate3.png)
 
 ---
 
 **Step 4:** The status changed to **Allocated**  
-![Step 4](asset/salesOrderAllocate2.png)
+
+![Step 4](asset/allocate4.png)
 
 ---
 
-**Step 5:** In other cases, e.g. Sales order `SAL0007`, all lines are allocated  
-![Step 5](asset/salesOrderAllocate3.png)
+**Step 5:** Scroll to the right, you should see all lines are allocated. Quantity allocated is now equal to quantity ordered.  
+
+![Step 5](asset/allocate5.png)
 
 ---
 
 **Step 6:** Status is set to **Allocate**  
-![Step 6](asset/salesOrderAllocate4.png)
+![Step 6](asset/allocate6.png)
 
 ---
 
 **Step 7:** You can allocate multiple orders at once  
-![Step 7](asset/salesOrderResults.png)
+![Step 7](asset/allocate7.png)
 
 ---
 
