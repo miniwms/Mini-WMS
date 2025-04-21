@@ -19,25 +19,30 @@ The Shipping Container Screen provides an overview of containers used during the
 
 This screen ensures seamless tracking of picked containers, streamlines the shipping process, and improves operational accuracy.
 
-### Container Management
+### Container Management:  
+- From the main screen, click on the **Shipping** button to access the shipping container results screen.
+---
+
+**Step 1:** Screen showing existing containers.  
+
+![Step 1](asset/shipping1.png)
 
 ---
 
-**Step 1:** Screen showing existing containers  
-![Step 1](asset/shipContainer1.png)
+**Step 2:** From the Results screen, tap one container.  
+A screen showing container details will appear.  
+
+![Step 2](asset/shipping2.png)
 
 ---
 
-**Step 2:** Screen showing container details  
-![Step 2](asset/shipContainer2.png)
+**Step 3:** Validate the container weight.  
 
----
-
-**Step 3:** Validate the container weight  
-![Step 3](asset/shipContainer3.png)
+![Step 3](asset/shipping3.png)
 
 ---
 
 **Step 4:** After acquiring a tracking number, enter it on this screen and click the **Ship** button. The status will change to **Shipped**.  
 You can also click **Re-Open** to update the tracking number.  
-![Step 4](asset/shipContainer4.png)
+
+![Step 4](asset/shipping4.png)
