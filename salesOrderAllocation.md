@@ -112,7 +112,7 @@ You can now see that the 5 orders are allocated (status 3) and wave number is 2.
 
 ---
 
-**Step 11:** From the main menu, click on the **Pick Stock** button. 
+**Step 11:** From the main menu, click on the **Pick Stock** button.  
 On the **Pick Stock** screen, the dropdown should now show that work is available for the five orders you have just allocated.  
 
 ![Step 11](asset/allocate15.png)
