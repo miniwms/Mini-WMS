@@ -15,41 +15,42 @@ This approach helps:
 ![Step 2](asset/storageStrategy.png)
   
 
-<table>
-  <tr>
-    <td style="width: 50%; text-align: left;">This is the storage strategy result screen.</td>
-    <td style="width: 50%; text-align: left;">Click the + button and you should be able to add new storage strategy. Add description, fifo and expiry tolerance values Then the location class details.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/storageStrategy1.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/storageStrategy5.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: left;">From the result screen, you can click on a record in the list which will take you to the storage strategy detail screen.</td>
-    <td style="width: 50%; text-align: left;">Click on the pen button to edit the storage strategy header information.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/storageStrategy4.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/storageStrategy3.png" alt="Step 2">
-    </td>
-  </tr>
-    <tr>
-    <td style="width: 50%; text-align: left;">From the storage strategy detail screen, you can click on the + button, you should be able to add a new location class detail.</td>
-    <td style="width: 50%; text-align: left;">From the storage strategy detail screen, you can click on an exising location class record to edit it. Also, you can click the red delete button to remove the location class.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/storageStrategy6.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/storageStrategy2.png" alt="Step 2">
-    </td>
-  </tr>
-</table>
+### Storage Strategy Workflow
+
+---
+
+**Step 1:** This is the storage strategy result screen.  
+![Step 1](asset/storageStrategy1.png)
+
+---
+
+**Step 2:** Click the + button to add a new storage strategy.  
+Add description, FIFO and expiry tolerance values, then location class details.  
+
+![Step 2](asset/storageStrategy5.png)
+
+---
+
+**Step 3:** From the result screen, click on a record in the list to go to the storage strategy detail screen.  
+
+![Step 3](asset/storageStrategy4.png)
+
+---
+
+**Step 4:** Click on the pen button to edit the storage strategy header information.  
+
+![Step 4](asset/storageStrategy3.png)
+
+---
+
+**Step 5:** From the detail screen, click the + button to add a new location class detail.  
+
+![Step 5](asset/storageStrategy6.png)
+
+---
+
+**Step 6:** On the detail screen, click on an existing location class to edit it,  
+or click the red delete button to remove it.  
+
+![Step 6](asset/storageStrategy2.png)
+
