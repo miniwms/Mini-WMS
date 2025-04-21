@@ -2,21 +2,24 @@
 
 # Sales orders.
 
-Sales orders in your Mini-WMS can be managed through multiple methods. They can be automatically pulled from your Shopify, Amazon, or eBay shops, imported from an Excel spreadsheet, or added manually via the sales order screen.
+Sales orders in your Mini-WMS can be managed through multiple methods:
+* They can be automatically pulled from your Shopify, Amazon, or eBay shops via API calls.
+* Imported from an Excel spreadsheet.
+* Added manually via the sales order add screen.
 
 ![Visual Guide](asset/SODownloads.png)
 
-**Shopify Integration**: Requires:  
+**Shopify API Integration**, Requires:  
 - Your Shopify store URL.  
 - Your Shopify API access token.  
 
-**Amazon Integration**: Requires:  
+**Amazon API Integration**, Requires:  
 - Your Amazon marketplace.  
 - Amazon client ID.  
 - Amazon client secret.  
 - Amazon refresh token.  
 
-**eBay Integration**: Requires:  
+**eBay API Integration**, Requires:  
 - Your eBay API OAuth token.  
 
 **Excel Import**:  
@@ -65,7 +68,7 @@ Single sales order detail screen showing header and detail lines.
 ---
 
 **Update Sales Order Line**  
-This screen allows you to update a specific sales order line.  
+This screen allows you to update a specific sales order line by taping on a line number.  
 
 ![Update Sales Order Line](asset/salesorderupdate2.png)
 
@@ -74,7 +77,7 @@ This screen allows you to update a specific sales order line.
 **Update Sales Order Header**  
 You can update sales order header information here.  
 
-![Update Header](asset/salesorderupdate2.png)
+![Update Header](asset/salesorderupdate1.png)
 
 ---
 
