@@ -33,8 +33,8 @@ Stock counting ensures your inventory data remains accurate, improving stock man
 ---
 
 **Option 2:** Searching stock by location and update if necessary.  
-If the item exists in multiple locations, then all those locations should be seen in the location dropdown.  
-* And if there are multiple lot numbers in the itemloc, then all those lots should be seen in the lot dropdown.
+* If the item is lot controlled (Check the item screen, the lot control flag should be set).  
+* And if there are multiple lot numbers in the itemloc, then all those lots should be seen in the lot dropdown.  
 * Select from the lot dropdown to update each lot.  
 
 ![Search by Location](asset/stockcount2.png)
