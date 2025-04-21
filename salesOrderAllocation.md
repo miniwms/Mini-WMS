@@ -75,30 +75,44 @@ In this case, not all stock can be fully allocated. You have the choice to abort
 
 ---
 
-**Step 6:** Status is set to **Allocate**  
+**Step 6:** Go back to the result screen, you can see that the status is set to 3 i.e. allocated and the wave number is set to 1.  
+The wave number is a unique number generated and increment during each allocation.  
+
 ![Step 6](asset/allocate6.png)
 
 ---
 
-**Step 7:** You can allocate multiple orders at once  
+**Step 7:** You can Also allocate multiple orders at once  
+Here we are going to allocate 5 orders at once. They all have the date time added as the 18Apr2025.  
+
 ![Step 7](asset/allocate7.png)
 
 ---
 
-**Step 8:** Click the **Allocate** button and select date range  
-![Step 8](asset/salesOrderAllocate7.png)
+**Step 8:** Select the date range that includes the 18th Apr 2025, and click the **Allocate** button  
+
+![Step 8](asset/allocate8.png)
 
 ---
 
-**Step 9:** For every order, a popup shows the percentage filled  
-![Step 9](asset/salesOrderAllocate7.png)
+**Step 9:** For every order, a popup shows the percentage filled and asks you to 'Allocate' or 'Abort' the order.  
+
+![Step 9](asset/allocate9.png)  
+![Step 9](asset/allocate10.png)  
+![Step 9](asset/allocate11.png)  
+![Step 9](asset/allocate12.png)  
+![Step 9](asset/allocate13.png)  
 
 ---
 
-**Step 10:** It gives you the choice to **Allocate** or **Abort**  
-![Step 10](asset/salesOrderAllocate8.png)
+**Step 10:** Once the allocation finishes, it takes you back to the result screen. 
+You can now see that the 5 orders are allocated (status 3) and wave number is 2.  
+
+![Step 10](asset/allocate14.png)
 
 ---
 
-**Step 11:** Click **Allocate** or **Abort**  
-![Step 11](asset/salesOrderAllocate9.png)
+**Step 11:** From the main menu, click on the **Pick Stock** button. 
+On the **Pick Stock** screen, the dropdown should now show that work is available for the five orders you have just allocated.  
+
+![Step 11](asset/allocate15.png)
