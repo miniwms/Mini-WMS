@@ -40,77 +40,60 @@ Mini-WMS allocation follows predefined rules or strategies, such as:
 
 The system checks real-time stock availability in the warehouse to determine if items can be allocated for each sales order.
 
-<table>
-  <tr>
-    <td style="width: 50%; text-align: left;">View the sales order you want to allocate.</td>
-    <td style="width: 50%; text-align: left;">Check the quantity ordered.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderDetail1.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderDetail2.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: left;">With Sales order SAL0001, after you click on Allocate button, a popup shows the quantity purcentage allocated. In this case, not all stock can fully be allocated. You have the choice to abort or continue.</td>
-    <td style="width: 50%; text-align: left;">The status changed to 'Allocated'.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate1.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate2.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: left;">In other cases, example sales order SAL0007, all lines are allocated.</td>
-    <td style="width: 50%; text-align: left;">Status is set to Allocate.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate3.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate4.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: left;">You can allocate multiple orders at onces.</td>
-    <td style="width: 50%; text-align: left;">Click Allocate button and select date range.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderResults.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate7.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: left;">For every order a popup shows up showing purcentage fill,</td>
-    <td style="width: 50%; text-align: left;">and gives you the choice to allocate or abort.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate7.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate8.png" alt="Step 2">
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="width: 50%; text-align: left;">Click allocate or abort.</td>
-    <td style="width: 50%; text-align: left;"></td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesOrderAllocate9.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-    </td>
-  </tr>
-</table>
+### Sales Order Allocation Workflow
+
+---
+
+**Step 1:** View the sales order you want to allocate  
+![Step 1](asset/salesOrderDetail1.png)
+
+---
+
+**Step 2:** Check the quantity ordered  
+![Step 2](asset/salesOrderDetail2.png)
+
+---
+
+**Step 3:** With Sales order `SAL0001`, after clicking on the **Allocate** button, a popup shows the percentage of quantity allocated.  
+In this case, not all stock can be fully allocated. You have the choice to abort or continue.  
+![Step 3](asset/salesOrderAllocate1.png)
+
+---
+
+**Step 4:** The status changed to **Allocated**  
+![Step 4](asset/salesOrderAllocate2.png)
+
+---
+
+**Step 5:** In other cases, e.g. Sales order `SAL0007`, all lines are allocated  
+![Step 5](asset/salesOrderAllocate3.png)
+
+---
+
+**Step 6:** Status is set to **Allocate**  
+![Step 6](asset/salesOrderAllocate4.png)
+
+---
+
+**Step 7:** You can allocate multiple orders at once  
+![Step 7](asset/salesOrderResults.png)
+
+---
+
+**Step 8:** Click the **Allocate** button and select date range  
+![Step 8](asset/salesOrderAllocate7.png)
+
+---
+
+**Step 9:** For every order, a popup shows the percentage filled  
+![Step 9](asset/salesOrderAllocate7.png)
+
+---
+
+**Step 10:** It gives you the choice to **Allocate** or **Abort**  
+![Step 10](asset/salesOrderAllocate8.png)
+
+---
+
+**Step 11:** Click **Allocate** or **Abort**  
+![Step 11](asset/salesOrderAllocate9.png)
