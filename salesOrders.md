@@ -26,53 +26,67 @@ Sales orders in your Mini-WMS can be managed through multiple methods. They can 
     
 Each method provides flexibility to suit your operational needs and streamline sales order processing.
 
-<table>
-  <tr>
-    <th align="left">Import sales orders via multiple ways.</th>
-    <th align="left">This requires credentials to access<br>Shopify.</th>
-    <th align="left">Amazon and Ebay sites.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/so_import1.png" alt="Step 1" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/so_import2.png" alt="Step 2" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/so_import3.png" alt="Step 2" style="height:500px;">
-    </td>
-  </tr>
-  <tr>
-    <th align="left">List of sales orders screen.</th>
-    <th align="left">Single sales order detail screen <br>showing header and detail lines.</th>
-    <th align="left">Update a sales order line.</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesorderresults1.png" alt="Step 1" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesorderdetail1.png" alt="Step 2" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesorderupdate2.png" alt="Step 2" style="height:500px;">
-    </td>
-  </tr>
-  <tr>
-    <th align="left">Update sales order header.</th>
-    <th align="left">Sales order add screen.</th>
-    <th align="left"></th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/salesorderupdate2.png" alt="Step 2" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesorderadd1.png" alt="Step 2" style="height:500px;">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/salesorderadd2.png" alt="Step 1" style="height:500px;">
-    </td>
-  </tr>
-</table>
+### Import Sales Orders  
+
+**Step 1:** Import sales orders via multiple ways  
+
+![Step 1](asset/so_import1.png)
+
+---
+
+**Step 2:** This requires credentials to access Shopify  
+
+![Step 2](asset/so_import2.png)
+
+---
+
+**Step 3:** Amazon and eBay sites  
+
+![Step 3](asset/so_import3.png)
+
+---
+
+### Sales Order Management
+
+---
+
+**List of Sales Orders**  
+This screen shows the list of sales orders.  
+
+![Sales Orders](asset/salesorderresults1.png)
+
+---
+
+**Sales Order Details**  
+Single sales order detail screen showing header and detail lines.  
+
+![Sales Order Details](asset/salesorderdetail1.png)
+
+---
+
+**Update Sales Order Line**  
+This screen allows you to update a specific sales order line.  
+
+![Update Sales Order Line](asset/salesorderupdate2.png)
+
+---
+
+**Update Sales Order Header**  
+You can update sales order header information here.  
+
+![Update Header](asset/salesorderupdate2.png)
+
+---
+
+**Add Sales Order - Header**  
+This is the screen to add a new sales order (header section).  
+
+![Add Sales Order](asset/salesorderadd1.png)
+
+---
+
+**Add Sales Order - Line**  
+Continue to add lines to the sales order.  
+
+![Add Sales Order Line](asset/salesorderadd2.png)
+
