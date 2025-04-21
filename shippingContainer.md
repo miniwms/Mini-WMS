@@ -19,29 +19,25 @@ The Shipping Container Screen provides an overview of containers used during the
 
 This screen ensures seamless tracking of picked containers, streamlines the shipping process, and improves operational accuracy.
 
-<table>
-  <tr>
-    <td style="width: 50%; text-align: left;">Screen showing existing containers results.</td>
-    <td style="width: 50%; text-align: left;">Screen showing container details.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/shipContainer1.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/shipContainer2.png" alt="Step 2">
-    </td>
-  </tr>
-    <tr>
-    <td style="width: 50%; text-align: left;">Validate the container weight.</td>
-    <td style="width: 50%; text-align: left;">After aquiring a tracking number for your container, add it in this screen and click the Ship button, the status will change to Shipped. You can click the "Re-Open" button to change the tracking number.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/shipContainer3.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/shipContainer4.png" alt="Step 2">
-    </td>
-  </tr>
-</table>
+### Container Management
+
+---
+
+**Step 1:** Screen showing existing containers  
+![Step 1](asset/shipContainer1.png)
+
+---
+
+**Step 2:** Screen showing container details  
+![Step 2](asset/shipContainer2.png)
+
+---
+
+**Step 3:** Validate the container weight  
+![Step 3](asset/shipContainer3.png)
+
+---
+
+**Step 4:** After acquiring a tracking number, enter it on this screen and click the **Ship** button. The status will change to **Shipped**.  
+You can also click **Re-Open** to update the tracking number.  
+![Step 4](asset/shipContainer4.png)
