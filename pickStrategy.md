@@ -15,42 +15,49 @@ Benefits of Picking Strategies:
 ![Step 2](asset/pickingStrategy.png)
 
 
-<table>
-  <tr>
-    <td style="width: 50%; text-align: left;">This is the pick strategy result screen.</td>
-    <td style="width: 50%; text-align: left;">Click the + button and you should be able to add new pick strategy. Add description, Then the location class details.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/pickStrategy1.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/pickStrategy2.png" alt="Step 2">
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: left;">From the result screen, you can click on a record in the list which will take you to the pick strategy detail screen.</td>
-    <td style="width: 50%; text-align: left;">Click on the pen button to edit the pick strategy header information.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/pickStrategy3.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/pickStrategy4.png" alt="Step 2">
-    </td>
-  </tr>
-    <tr>
-    <td style="width: 50%; text-align: left;">From the pick strategy detail screen, you can click on the + button, you should be able to add a new location class detail.</td>
-    <td style="width: 50%; text-align: left;">From the pick strategy detail screen, you can click on an exising location class record to edit it. Also, you can click the red delete button to remove the location class.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="asset/pickStrategy5.png" alt="Step 1">
-    </td>
-    <td style="vertical-align: top;">
-      <img src="asset/pickStrategy6.png" alt="Step 2">
-    </td>
-  </tr>
-</table>
+### Pick Strategy Workflow
+
+---
+
+**Step 1:** This is the pick strategy result screen.  
+
+![Step 1](asset/pstrategy1.png)
+
+---
+
+**Step 2:** Click the + button to add a new pick strategy.  
+Add strategy number, description and location class details.  
+
+![Step 2](asset/pstrategy2.png)
+
+---
+
+**Step 3:** When you click **Add** button the new pick strategy will appear on the **Details** screen.  
+
+![Step 3](asset/pstrategy3.png)
+
+---
+
+**Step 4:** Click on the pen button to edit the pick strategy header information.  
+
+![Step 4](asset/pstrategy4.png)
+
+---
+
+**Step 5:** From the detail screen, click the + button to add a new location class detail.  
+
+![Step 5](asset/pstrategy5.png)
+
+---
+
+**Step 6:** The new location class will appear on the Details screen.  
+
+![Step 6](asset/pstrategy6.png)
+
+---
+
+**Step 5:** On the detail screen, click on an existing location class.  
+You can either edit or click the red delete button to remove it.  
+
+![Step 5](asset/pstrategy7.png)
 
