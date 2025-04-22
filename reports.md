@@ -1,27 +1,22 @@
 [← Back](README.md)
 
-# Reporting Screen  
+# Reporting Screens  
 
-All reports are display only where no action is required.  
-Except the Stock integrity report, where action needs to be taken to rectify all reported issues.  
+### ✅ Available reports and charts
 
-### Stock integrity report:  
+![Available reports and charts](asset/report0.png)  
+
+---
+
+### <img src="asset/system-integration.png" alt="Hourglass icon" width="35" /> Stock integrity report
+ The Stock integrity report, where action needs to be taken to rectify all reported issues.  
+ 
 - There should be no items reported here. All items reported should be resolved immediately.  
 - The warehouse processes like receiving, putaway, allocation or picking will not work if these issues are not resolved.  
 - Proper configuration of your mini warehouse is essential for the smooth operation of these processes.  
 - Low Stock Report is ok, you can replenish whenever you receive new stock.  
 
 The rest of the reports are self explanatory.  
-
-  
-### ✅ Available reports and charts
-
-Available reports and charts.  
-![Available reports and charts](asset/report0.png)
-
----
-
-### <img src="asset/system-integration.png" alt="Hourglass icon" width="35" /> Stock integrity report
 
 ![Stock integrity report](asset/report1.png)
 
