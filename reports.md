@@ -43,31 +43,31 @@ Available reports and charts.
 
 ---
 
-### <img src="asset/glass-hour.png" alt="Hourglass icon" width="35" /> Available pick and putaway work
+### <img src="asset/process.png" alt="Hourglass icon" width="35" /> Available pick and putaway work
  
 ![Available pick and putaway work](asset/report4.png)
 
 ---
 
-### <img src="asset/glass-hour.png" alt="Hourglass icon" width="35" /> Available sales and purchase orders
+### <img src="asset/inventory.png" alt="Hourglass icon" width="35" /> Available sales and purchase orders
   
 ![Available sales and purchase orders](asset/report6.png)
 
 ---
 
-### <img src="asset/glass-hour.png" alt="Hourglass icon" width="35" /> Sales order progress by status
+### <img src="asset/procurement.png" alt="Hourglass icon" width="35" /> Sales order progress by status
   
 ![Sales order progress](asset/report5.png)
 
 ---
 
-### <img src="asset/glass-hour.png" alt="Hourglass icon" width="35" /> Purchase order progress by status
+### <img src="asset/add-to-cart.png" alt="Hourglass icon" width="35" /> Purchase order progress by status
   
 ![Purchase order progress](asset/report7.png)
 
 ---
 
-### <img src="asset/glass-hour.png" alt="Hourglass icon" width="35" /> First 10 expiring lots
+### <img src="asset/glass-hour.png" alt="Hourglass icon" width="30" /> First 10 expiring lots
 
 First 10 expiring lots.  
 ![First 10 expiring lots](asset/report8.png)
