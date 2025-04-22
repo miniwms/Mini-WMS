@@ -21,13 +21,13 @@ Available reports and charts.
 
 ---
 
-### 📦 Stock integrity report
+### <img src="asset/system-integration.png" alt="Hourglass icon" width="35" /> Stock integrity report
 
 ![Stock integrity report](asset/report1.png)
 
 ---
 
-### 📊 Sold items per month
+### <img src="asset/wages.png" alt="Hourglass icon" width="35" /> Sold items per month
 - By default it shows the current month.
 - Change the date range for wider visibility.  
 
@@ -35,7 +35,7 @@ Available reports and charts.
 
 ---
 
-### 💰 Income per month
+### <img src="asset/salary.png" alt="Hourglass icon" width="35" /> Income per month
 - By default it shows the current month.
 - Change the date range for wider visibility.
   
@@ -43,31 +43,31 @@ Available reports and charts.
 
 ---
 
-### 🚚 Available pick and putaway work
+### <img src="asset/glass-hour.png" alt="Hourglass icon" width="35" /> Available pick and putaway work
  
 ![Available pick and putaway work](asset/report4.png)
 
 ---
 
-### 🧾 Available sales and purchase orders
+### <img src="asset/glass-hour.png" alt="Hourglass icon" width="35" /> Available sales and purchase orders
   
 ![Available sales and purchase orders](asset/report6.png)
 
 ---
 
-### 📈 Sales order progress by status
+### <img src="asset/glass-hour.png" alt="Hourglass icon" width="35" /> Sales order progress by status
   
 ![Sales order progress](asset/report5.png)
 
 ---
 
-### 🛒 Purchase order progress by status
+### <img src="asset/glass-hour.png" alt="Hourglass icon" width="35" /> Purchase order progress by status
   
 ![Purchase order progress](asset/report7.png)
 
 ---
 
-### ⏳ First 10 expiring lots
+### <img src="asset/glass-hour.png" alt="Hourglass icon" width="35" /> First 10 expiring lots
 
 First 10 expiring lots.  
 ![First 10 expiring lots](asset/report8.png)
