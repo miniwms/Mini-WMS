@@ -9,7 +9,8 @@ Sales orders in your Mini-WMS can be managed through multiple methods. They can 
 **Shopify Integration**: Requires:  
 - Your Shopify store URL.  
 - Your Shopify API access token.  
-🚨 **Important:** To successfully import the orders with their items, the Shopify SKU must match the item number in your mini-WMS app.
+🚨 **Important:** To successfully import the orders with their items, the Shopify SKU must match the item number in your mini-WMS app.  
+🚨 **Important:** To successfully import the buyer's name and shipping address, you need to be on the **Advance** or **Plus** plan. If not, Shopify will only send you the country name.
 
 **Amazon Integration**: Requires:  
 - Your Amazon marketplace.  
