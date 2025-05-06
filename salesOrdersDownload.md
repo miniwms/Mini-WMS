@@ -22,7 +22,8 @@ Sales orders in your Mini-WMS can be managed through multiple methods. They can 
 
 **eBay Integration**: Requires:  
 - Your eBay API OAuth token.  
-🚨 **Important:** To successfully import the orders with their items you need to have the Ebay SKU field, when you setup each product in Ebay, the same as the item number in your mini-WMS app.
+🚨 **Important:** To successfully import the orders with their items you need to have the Ebay 'Custom Label (SKU) field the same as the item number in your mini-WMS app.  
+🚨 **Important:** When your item is in Active Listing, you should be able to populate the 'Custom Label (SKU) field with the mini-WMS item number.  
 
 # **Excel Import**:  
 - You need to fill in two sheets:  
