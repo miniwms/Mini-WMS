@@ -4,7 +4,10 @@
 
 Purchase orders in your Mini-WMS can be added either manually or via the import of excel spreadsheet methods in the purchase order screen.
 
-The purchase order can be in one of the following statuses at any time: <br>The status goes from:<br>&nbsp;&nbsp;&nbsp;0 (available)<br>&nbsp;&nbsp;&nbsp;2  (in receiving) When receiving work exist<br>&nbsp;&nbsp;&nbsp;10 (Fully received and closed)
+**The purchase order can be in one of the following statuses at any time:**:  
+  - 0 (available).  
+  - 2  (in receiving). When receiving work exist
+  - 10 (Fully received and closed)
 
 ## Step 1: Click on the Purchase Order button  
 ![Main Menu](asset/main1.png)
