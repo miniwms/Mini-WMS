@@ -10,7 +10,7 @@ Whether you're a high-volume seller on **Amazon**, **eBay** or **Shopify** platf
 
 This app will increase your productivity and stock accuracy, speeding up the **receiving**, **picking**, and **shipping** processes.
 
-<img src="asset/mini_wms_feature.png" alt="Feature" width="600">
+<img src="asset/appPS.jpeg" alt="Feature" width="600">
 
 ---
 
