@@ -102,5 +102,5 @@ Enjoy the functionalities of a high-end WMS application in the palm of your hand
 
 ---
 
-**Transform your warehouse management experience with this powerful app!**
+**Transform your Mini warehouse management experience with this powerful app!**
 
