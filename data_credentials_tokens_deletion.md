@@ -18,4 +18,4 @@ No personally identifiable information (PII), authentication tokens, or store da
 ---
 
 If you have any questions or need assistance, you can contact us at:  
-[orderstockwms@gmail.com](mailto:orderstockwms@gmail.com)
+**[orderstockwms@gmail.com](mailto:orderstockwms@gmail.com)**
