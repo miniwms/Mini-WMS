@@ -26,6 +26,9 @@ This app will increase your productivity and stock accuracy, speeding up the **r
 [Shipping container](shippingContainer.md).  
 [Reports](reports.md).  
 [Test data](testData.md). 
+  
+[Data, credentials & tokens_deletion](data_credentials_tokens_deletion.md).  
+[Privacy policy](privacy_policy.md). 
 
 
 ## **Key Features**
