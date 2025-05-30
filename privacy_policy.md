@@ -1,3 +1,5 @@
+[← Back](README.md)
+
 # Privacy Policy
 
 **Effective date:** [29th May 2025]
