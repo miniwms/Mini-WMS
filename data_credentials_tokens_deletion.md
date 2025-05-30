@@ -1,3 +1,5 @@
+[← Back](README.md)
+
 # Data and Credentials/Token Deletion Information:
 
 All access to external services like Amazon, eBay, or Shopify is performed through secure, user-provided credentials (such as OAuth tokens, API keys, or other authentication credentials).
