@@ -48,7 +48,7 @@ Your data is **never shared** with any third-party service, advertiser, analytic
 You remain in full control of your data. You can:
 
 - Disconnect your store at any time, which will stop access to your store's sales orders and customer data.  
-- Delete stored API credentials through app's "Setup -> System Parameters" screen.  
+- Delete stored API credentials/OAuth/Tokens through the app's "Setup -> System Parameters" screen.  
 - Uninstall the app to permanently remove all locally stored data  
 
 ---
