@@ -79,8 +79,8 @@ In the case below we have shown 2 orders. You can have as many as you like.
 ```
 "purchaseorder"
 po_number  vendor_number
-POrder001  Amazon
-POrder002  Waterstones
+POrder001  Vendor1
+POrder002  Vendor2
 ```
 
 The purchaseorderline spreadsheet columns should contain the first row as the column names of the purchase order detail fields, then, in the next rows the details information, as shown below:  
