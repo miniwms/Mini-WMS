@@ -10,8 +10,8 @@ Below are the details on how to aquire the API access token and credential from 
 To successfully import orders and their items, ensure the Shopify SKU field for each product matches the item number in your mini-WMS app.
 
 **Shopify Integration Requires:**  
-- Your Shopify store URL. (e.g., https://5e6595-3.myshopify.com).  
-- Your Shopify API access token. (e.g., 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9).  
+- Your Shopify store URL. (e.g., https://xxxxx-x.myshopify.com).  
+- Your Shopify API access token. (e.g., shpat_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx).  
   
 **Steps to create the access token:**
 Log in to Shopify Admin:
