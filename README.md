@@ -1,4 +1,4 @@
-[View Issues List](https://github.com/miniwms/Mini-WMS/issues)  |  [Add New Issue](https://github.com/miniwms/Mini-WMS/issues/new?assignees=&labels=&template=&title=)  
+[View Issues List](https://github.com/miniwms/Mini-WMS/issues)  |  [Add New Issue](https://github.com/miniwms/Mini-WMS/issues/new?assignees=&labels=&template=&title=)  If you encounter an issue kindly report it by opening an issue.  
 
 # Mini Warehouse Management System
 
