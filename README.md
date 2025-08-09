@@ -1,7 +1,9 @@
-[Google Play Store - Install the Mini WMS App](https://play.google.com/store/apps/details?id=com.miniwms.orderandinventory&hl=en)  
+<img src="asset/GooglePlay.png" alt="Feature" width="20"> [Google Play Store - Install the Mini WMS App](https://play.google.com/store/apps/details?id=com.miniwms.orderandinventory&hl=en)  
+Any question let us know, we are more than happy to guide you through the setup.  
 
-The App is well tested, however, if you encounter an issue kindly report it through the below link.  
+
 [View Issues List](https://github.com/miniwms/Mini-WMS/issues)  |  [Add New Issue](https://github.com/miniwms/Mini-WMS/issues/new?assignees=&labels=&template=&title=)    
+The App is well tested, however, if you request a clarification or encounter any issue kindly report it through the above link.  
 
 # Mini Warehouse Management System
 
