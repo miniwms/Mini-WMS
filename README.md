@@ -1,5 +1,7 @@
-[View Issues List](https://github.com/miniwms/Mini-WMS/issues)  |  [Add New Issue](https://github.com/miniwms/Mini-WMS/issues/new?assignees=&labels=&template=&title=)  
-If you encounter an issue kindly report it through the above link.  
+[Google Play Store - Install the Mini WMS App](https://play.google.com/store/apps/details?id=com.miniwms.orderandinventory&hl=en)  
+
+The App is well tested, however, if you encounter an issue kindly report it through the below link.  
+[View Issues List](https://github.com/miniwms/Mini-WMS/issues)  |  [Add New Issue](https://github.com/miniwms/Mini-WMS/issues/new?assignees=&labels=&template=&title=)    
 
 # Mini Warehouse Management System
 
