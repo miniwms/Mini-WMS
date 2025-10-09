@@ -1,21 +1,21 @@
-<img src="asset/GooglePlay.png" alt="Feature" width="20"> [Google Play Store - Install the Mini WMS App](https://play.google.com/store/apps/details?id=com.miniwms.orderandinventory&hl=en)  
-Any question let us know, we are more than happy to guide you through the setup.  
-
-
-[View Issues List](https://github.com/miniwms/Mini-WMS/issues)  |  [Add New Issue](https://github.com/miniwms/Mini-WMS/issues/new?assignees=&labels=&template=&title=)    
-The App is well tested, however, if you request a clarification or encounter any issue kindly report it through the above link.  
-
 # Mini Warehouse Management System
 
 **A tool to streamline your mini warehouse.**
 
 This is a comprehensive app designed to streamline and optimize various aspects of mini warehouse operations.  
 
+<img src="asset/appPS.jpeg" alt="Feature" width="600">
+
 Whether you're a high-volume seller on **Amazon**, **eBay** or **Shopify** platforms, or you manage a business dealing with large stock quantities and reselling them through sales orders, this app is for you.  
 
 This app will increase your productivity and stock accuracy, speeding up the **receiving**, **picking**, and **shipping** processes.
 
-<img src="asset/appPS.jpeg" alt="Feature" width="600">
+<img src="asset/GooglePlay.png" alt="Feature" width="20"> [Google Play Store - Install the Mini WMS App](https://play.google.com/store/apps/details?id=com.miniwms.orderandinventory&hl=en)  
+Any question let us know, we are more than happy to guide you through the setup.  
+
+
+[View Issues List](https://github.com/miniwms/Mini-WMS/issues)  |  [Add New Issue](https://github.com/miniwms/Mini-WMS/issues/new?assignees=&labels=&template=&title=)    
+The App is well tested, however, if you request a clarification or encounter any issue kindly report it through the above link.  
 
 ---
 
