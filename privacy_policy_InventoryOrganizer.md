@@ -4,7 +4,7 @@
 
 **Effective date:** [10th October 2025]
 
-This privacy policy explains how the Inventory Organizer Android application (“we”, “our”, or “the app”) handles your data.
+This privacy policy explains how the "Inventory Organizer" Android application (“we”, “our”, or “the app”) handles your data.
 
 ---
 
@@ -58,4 +58,5 @@ This policy aligns with similar regulations globally, including the **Children�
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
 **[orderstockwms@gmail.com](mailto:orderstockwms@gmail.com)**
+
 
