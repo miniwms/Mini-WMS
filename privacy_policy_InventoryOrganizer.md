@@ -1,3 +1,8 @@
+---
+layout: none
+---
+
+
 # Privacy Policy
 
 **Effective date:** [10th October 2025]
@@ -56,6 +61,7 @@ This policy aligns with similar regulations globally, including the **Childrenâ€
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
 **[orderstockwms@gmail.com](mailto:orderstockwms@gmail.com)**
+
 
 
 
