@@ -1,6 +1,6 @@
 ---
 layout: none
-title: "Inventory Organizer"
+title: "Inventory & Orders"
 ---
 
 
@@ -8,7 +8,7 @@ title: "Inventory Organizer"
 
 **Effective date:** [10th October 2025]
 
-This privacy policy explains how the "Inventory Organizer" Android application (“we”, “our”, or “the app”) handles your data.
+This privacy policy explains how the "Inventory & Orders" Android application (“we”, “our”, or “the app”) handles your data.
 
 ---
 
